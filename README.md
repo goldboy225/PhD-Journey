@@ -16,3 +16,8 @@ Don't forget to hit the :star: if you like this repo.
 |--|--|--|--|
 | Blog | [Machine learing for everyone](https://vas3k.com/blog/machine_learning/)  | | Beginners |
 | Book | [The Filed Guide to Data Science](https://drive.google.com/file/d/1PI345nxrOutnG4Pu4EI9_pK5ejSjsQlY/view?usp=share_link) | | Begineers |
+
+## Contribution 🛠️
+Please create an [Issue](https://github.com/goldboy225/Code-Base-for-Research/issues) for any improvements, suggestions or errors in the content.
+
+![](https://visitor-badge.glitch.me/badge?page_id=goldboy225)
