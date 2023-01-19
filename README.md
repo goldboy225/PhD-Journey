@@ -12,21 +12,21 @@ Don't forget to hit the :star: if you like this repo.
 ## Learning sources:
 
 ### Datasets
-| Types | Sources | Introduction| Audience |
+| Topics | Sources | Introduction| Audience |
 |--|--|--|--|
-| Github |[Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)  |This is a list of a topic-centric public data sources in high quality among various applications| data scientists or practitiones |
+| [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)|Github|This is a list of a topic-centric public data sources in high quality among various applications| data scientists or practitiones |
 
 
 ### Machine Learning
-| Types | Sources | Introduction| Audience |
+| Topics | Sources | Introduction| Audience |
 |--|--|--|--|
-| Blog | [Machine learing for everyone](https://vas3k.com/blog/machine_learning/)  | | Beginners |
-| Book | [The Filed Guide to Data Science](https://drive.google.com/file/d/1PI345nxrOutnG4Pu4EI9_pK5ejSjsQlY/view?usp=share_link) | | Begineers |
+| [Machine learing for everyone](https://vas3k.com/blog/machine_learning/)  | Blog | Clear blog materials with enough simplicity on machine learning knowledge  | Beginners |
+| [The Filed Guide to Data Science](https://drive.google.com/file/d/1PI345nxrOutnG4Pu4EI9_pK5ejSjsQlY/view?usp=share_link) | Book | Comprehensive content, you can get big idea of data science from P74~75  | Begineers |
 
 ### Internet of Things
-| Types | Sources | Introduction| Audience |
+| Topics | Sources | Introduction| Audience |
 |--|--|--|--|
-| Github | [IoT for beginners](https://github.com/microsoft/IoT-For-Beginners)  |Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 24-lesson curriculum all about IoT basics. | Beginners |
+| [IoT for beginners](https://github.com/microsoft/IoT-For-Beginners)  | Github |Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 24-lesson curriculum all about IoT basics. | Beginners |
 
 
 ## Contribution 🛠️
