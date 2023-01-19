@@ -30,6 +30,10 @@ Don't forget to hit the :star: if you like this repo.
 |--|--|--|--|
 | [IoT for beginners](https://github.com/microsoft/IoT-For-Beginners)  | Github |Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 24-lesson curriculum all about IoT basics. | Beginners |
 
+### Thoughts in AI
+| Topics | Sources | Introduction| Audience |
+|--|--|--|--|
+| [Heroes of Deep Learning: Geoffrey Hinton](https://www.deeplearning.ai/blog/hodl-geoffrey-hinton/)  | Blog |Andrew sits down with Hinton to discuss his first exposure to AI, his current research projects, and his changing understanding of AI throughout the decades. | Anyone who is interested in AI knowledge |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/goldboy225/Code-Base-for-Research/issues) for any improvements, suggestions or errors in the content.
