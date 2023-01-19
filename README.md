@@ -21,6 +21,8 @@ Don't forget to hit the :star: if you like this repo.
 | Topics | Sources | Introduction| Audience |
 |--|--|--|--|
 | [Machine learing for everyone](https://vas3k.com/blog/machine_learning/)  | Blog | Clear blog materials with enough simplicity on machine learning knowledge  | Beginners |
+| [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners)  | Github | A 12-week, 26-lesson curriculum all about Machine Learning offered by Microsoft Azure. In this curriculum, you will learn about what is sometimes called classic machine learning, using primarily Scikit-learn as a library  | Beginners |
+| [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle)  | Github | A comprehensive repo with deep learning, machine learning, reinforcement learning, optimizaition in machine learning, CV, NLP, Boot Camps or Summer Schools.  | Anyone who is interested in AI knowledge |
 | [The Filed Guide to Data Science](https://drive.google.com/file/d/1PI345nxrOutnG4Pu4EI9_pK5ejSjsQlY/view?usp=share_link) | Book | Comprehensive content, you can get big idea of data science from P74~75  | Begineers |
 
 ### Internet of Things
