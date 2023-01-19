@@ -35,6 +35,12 @@ Don't forget to hit the :star: if you like this repo.
 |--|--|--|--|
 | [Heroes of Deep Learning: Geoffrey Hinton](https://www.deeplearning.ai/blog/hodl-geoffrey-hinton/)  | Blog |Andrew sits down with Hinton to discuss his first exposure to AI, his current research projects, and his changing understanding of AI throughout the decades. | Anyone who is interested in AI knowledge |
 
+
+### Career Development
+| Topics | Sources | Introduction| Audience |
+|--|--|--|--|
+| [Data Science Interviews](https://github.com/alexeygrigorev/data-science-interviews)  | Github |Data science interview questions - with answers, theoretical questions involving linear models, trees, neural networks and others, technical questions involving SQL, Python, coding etc. | Application for DS job |
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/goldboy225/Code-Base-for-Research/issues) for any improvements, suggestions or errors in the content.
 
