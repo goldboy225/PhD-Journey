@@ -27,6 +27,11 @@ Don't forget to hit the :star: if you like this repo.
 | [500 AI Coding Projects with Code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)  | Github | 500 AI Machine learning Deep learning Computer vision NLP Projects with code !!!  | Anyone who want to know AI by coding |
 | [The Filed Guide to Data Science](https://drive.google.com/file/d/1PI345nxrOutnG4Pu4EI9_pK5ejSjsQlY/view?usp=share_link) | Book | Comprehensive content, you can get big idea of data science from P74~75  | Begineers |
 
+### Federate Learning
+| Topics | Sources | Introduction| Audience |
+|--|--|--|--|
+| [Comic for Federate Learning](https://federated.withgoogle.com/)  | Blog | Interesting comic to understand federate learning, which is created by the federated learning team at Google AI. | Beginners |
+
 ### Tools for Data Science
 | Topics | Sources | Introduction| Audience |
 |--|--|--|--|
