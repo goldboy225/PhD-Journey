@@ -27,6 +27,11 @@ Don't forget to hit the :star: if you like this repo.
 | [500 AI Coding Projects with Code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)  | Github | 500 AI Machine learning Deep learning Computer vision NLP Projects with code !!!  | Anyone who want to know AI by coding |
 | [The Filed Guide to Data Science](https://drive.google.com/file/d/1PI345nxrOutnG4Pu4EI9_pK5ejSjsQlY/view?usp=share_link) | Book | Comprehensive content, you can get big idea of data science from P74~75  | Begineers |
 
+### Tools for Data Science
+| Topics | Sources | Introduction| Audience |
+|--|--|--|--|
+| [Interactive Canvas for DS](https://www.einblick.ai/?utm_source=LiAVSnB&utm_medium=LiPost&utm_campaign=NbAVS)  | Einblick |Einblick is the fastest and most collaborative way to explore data, create predictions, and deploy data apps. | Anyone who likes visual operation on datasets |
+
 ### Internet of Things
 | Topics | Sources | Introduction| Audience |
 |--|--|--|--|
