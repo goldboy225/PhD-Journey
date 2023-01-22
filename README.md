@@ -16,6 +16,10 @@ Don't forget to hit the :star: if you like this repo.
 |--|--|--|--|
 | [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)|Github|This is a list of a topic-centric public data sources in high quality among various applications| data scientists or practitiones |
 
+### Article writing
+| Topics | Sources | Introduction| Audience |
+|--|--|--|--|
+| [Write a journal article in 12 weeks](https://wendybelcher.com/writing-advice/how-to-write-a-journal-article/)|Blog|In this workbook, Writing Your Journal Article in Twelve Weeks: A Guide to Academic Publishing Success, it take you through all the steps to revising a classroom paper, conference paper, or thesis chapter into a peer-reviewed journal article that you send to a journal. | Inexperienced writer |
 
 ### Machine Learning
 | Topics | Sources | Introduction| Audience |
