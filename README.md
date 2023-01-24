@@ -37,6 +37,11 @@ Don't forget to hit the :star: if you like this repo.
 | [Python Pandas Cheat Sheet](https://drive.google.com/drive/u/0/folders/1-TqaKsrH7s0OgsKUJhkS10ZsLQiE1271)|Google Drive|Here is a quick Python Pandas cheatsheet that covers some of the most common functions and operations you will use when working with Pandas| Beginners |
 | [The Filed Guide to Data Science](https://drive.google.com/file/d/1PI345nxrOutnG4Pu4EI9_pK5ejSjsQlY/view?usp=share_link) | Google Drive | Comprehensive content, you can get big idea of data science from P74~75  | DS Practioners |
 
+### Bootcamp
+| Topics | Sources | Introduction| Audience |
+|--|--|--|--|
+| [Data Analyst Roadmap](https://github.com/mrankitgupta/Data-Analyst-Roadmap)|Github|Data Analytics is the process of exploring and analyzing large datasets to find hidden patterns, unseen trends, discover correlations, and derive valuable insights to make business predictions. It helps in Improved Decision Making, Better Customer Service, Efficient Operations, Effective Marketing and Improves the Speed and Efficiency of the business.| For DS beginners |
+
 ### Federate Learning
 | Topics | Sources | Introduction| Audience |
 |--|--|--|--|
