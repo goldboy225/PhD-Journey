@@ -1,4 +1,4 @@
-# PhD-Journey
+# Things of PhD Journey
 
 <a href="https://github.com/goldboy225/research-material/stargazers"><img src="https://img.shields.io/github/stars/goldboy225/research-material" alt="Stars Badge"/></a>
 <a href="https://github.com/goldboy225/research-material/network/members"><img src="https://img.shields.io/github/forks/goldboy225/research-material" alt="Forks Badge"/></a>
