@@ -14,7 +14,16 @@ Don't forget to hit the :star: if you like this repo.
 ### Datasets
 | Topics | Sources | Introduction| Audience |
 |--|--|--|--|
+| [Kaggle Datasets](https://www.kaggle.com/datasets)|Kaggle|A great playground for coding practice and competition with abundant datasets | Easy to follow |
+| [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php)|UCI|A famous cite with abundant datasets | Classic dataset repo for ML |
+| [Google Datasets](https://datasetsearch.research.google.com/)|Google| You know who is google | Giant |
 | [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)|Github|This is a list of a topic-centric public data sources in high quality among various applications| data scientists or practitiones |
+| [Data World](https://data.world)|dataworld|An official place full of data| Official |
+| [World Bank](https://data.worldbank.org)|World Bank|An official place full of data| Official |
+| [Datahub](https://datahub.io/collections)|Datahub|Datahub is the fastest way for individuals, teams and organizations to publish, deploy and share their data.| Anyone DS |
+| [Earthdata](https://www.earthdata.nasa.gov/)|Earthdata|Your Gateway to NASA Earth Observation Data| Anyone DS |
+| [CERN Data Portal](http://opendata.cern.ch/)|CERN|The CERN Open Data portal is the access point to a growing range of data produced through the research performed at CERN. | Anyone DS |
+
 
 ### Article writing
 | Topics | Sources | Introduction| Audience |
