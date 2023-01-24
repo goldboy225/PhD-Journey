@@ -29,7 +29,13 @@ Don't forget to hit the :star: if you like this repo.
 | [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) | Github | A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by awesome-php. Moreover with resources: a list of free machine learning books, professional machine learning events, free machine learning courses available online, blogs and newsletters on data science and machine learning, free-to-attend meetups and local events | Anyone who is interested in AI knowledge |
 | [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle)  | Github | A comprehensive repo with deep learning, machine learning, reinforcement learning, optimizaition in machine learning, CV, NLP, Boot Camps or Summer Schools.  | Anyone who is interested in AI knowledge |
 | [500 AI Coding Projects with Code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)  | Github | 500 AI Machine learning Deep learning Computer vision NLP Projects with code !!!  | Anyone who want to know AI by coding |
-| [The Filed Guide to Data Science](https://drive.google.com/file/d/1PI345nxrOutnG4Pu4EI9_pK5ejSjsQlY/view?usp=share_link) | Book | Comprehensive content, you can get big idea of data science from P74~75  | Begineers |
+
+
+### Books and Cheatsheet
+| Topics | Sources | Introduction| Audience |
+|--|--|--|--|
+| [Python Pandas Cheat Sheet](https://drive.google.com/drive/u/0/folders/1-TqaKsrH7s0OgsKUJhkS10ZsLQiE1271)|Google Drive|Here is a quick Python Pandas cheatsheet that covers some of the most common functions and operations you will use when working with Pandas| Beginners |
+| [The Filed Guide to Data Science](https://drive.google.com/file/d/1PI345nxrOutnG4Pu4EI9_pK5ejSjsQlY/view?usp=share_link) | Google Drive | Comprehensive content, you can get big idea of data science from P74~75  | DS Practioners |
 
 ### Federate Learning
 | Topics | Sources | Introduction| Audience |
