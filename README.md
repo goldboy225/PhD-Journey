@@ -80,6 +80,6 @@ Don't forget to hit the :star: if you like this repo.
 | [Data Science Interviews](https://github.com/alexeygrigorev/data-science-interviews)  | Github |Data science interview questions - with answers, theoretical questions involving linear models, trees, neural networks and others, technical questions involving SQL, Python, coding etc. | Application for DS job |
 
 ## Contribution 🛠️
-Please create an [Issue](https://github.com/goldboy225/Code-Base-for-Research/issues) for any improvements, suggestions or errors in the content.
+Please create an [Issue](https://github.com/goldboy225/PhD-Journey/issues) for any improvements, suggestions or errors in the content.
 
-![](https://visitor-badge.glitch.me/badge?page_id=goldboy225)
+![](https://visitor-badge.glitch.me/badge?page_id=goldboy225/PhD-Journey)
