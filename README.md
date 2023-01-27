@@ -30,7 +30,6 @@ Don't forget to hit the :star: if you like this repo.
 | [Earthdata](https://www.earthdata.nasa.gov/)|Earthdata|Your Gateway to NASA Earth Observation Data| Anyone DS |
 | [CERN Data Portal](http://opendata.cern.ch/)|CERN|The CERN Open Data portal is the access point to a growing range of data produced through the research performed at CERN. | Anyone DS |
 
-
 ### Article writing
 | Topics | Sources | Introduction| Audience |
 |--|--|--|--|
@@ -38,7 +37,7 @@ Don't forget to hit the :star: if you like this repo.
 | [Stanford - Writing in the Sciences](https://www.coursera.org/learn/sciwrite)|Coursera|This course teaches scientists to become more effective writers, using practical examples and exercises. Topics include: principles of good writing, tricks for writing faster and with less anxiety, the format of a scientific manuscript, peer review, grant writing, ethical issues in scientific publication, and writing for general audiences. | Inexperienced writer |
 | [How to Write and Publish a Scientific Paper (Project-Centered Course)](https://www.coursera.org/learn/how-to-write-a-scientific-paper)|Coursera|In this project-based course, you will outline a complete scientific paper, choose an appropriate journal to which you'll submit the finished paper for publication, and prepare a checklist that will allow you to independently judge whether your paper is ready to submit. | Inexperienced writer |
 | [Writing in English at University](https://www.coursera.org/learn/writing-english-university)|Coursera|Acquiring good academic research and writing skills early on is essential for your success both at university and in your professional life.  | Inexperienced writer |
-
+| [Johns Hopkins - Introduction to Systematic Review and Meta-Analysis](https://www.coursera.org/learn/systematic-review)|Coursera|We will introduce methods to perform systematic reviews and meta-analysis of clinical trials. We will cover how to formulate an answerable research question, define inclusion and exclusion criteria, search for the evidence, extract data, assess the risk of bias in clinical trials, and perform a meta-analysis.   | For writing LSR |
 
 
 ### Machine Learning
