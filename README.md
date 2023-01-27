@@ -35,6 +35,7 @@ Don't forget to hit the :star: if you like this repo.
 | Topics | Sources | Introduction| Audience |
 |--|--|--|--|
 | [Write a journal article in 12 weeks](https://wendybelcher.com/writing-advice/how-to-write-a-journal-article/)|Blog|In this workbook, Writing Your Journal Article in Twelve Weeks: A Guide to Academic Publishing Success, it take you through all the steps to revising a classroom paper, conference paper, or thesis chapter into a peer-reviewed journal article that you send to a journal. | Inexperienced writer |
+| [Stanford - Writing in the Sciences in 4 weeks](https://www.coursera.org/learn/sciwrite)|Coursera|This course teaches scientists to become more effective writers, using practical examples and exercises. Topics include: principles of good writing, tricks for writing faster and with less anxiety, the format of a scientific manuscript, peer review, grant writing, ethical issues in scientific publication, and writing for general audiences. | Inexperienced writer |
 
 ### Machine Learning
 | Topics | Sources | Introduction| Audience |
