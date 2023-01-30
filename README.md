@@ -89,16 +89,26 @@ Don't forget to hit the :star: if you like this repo.
 
 
 ## Other similar collections
-[Collection of advice for prospective and current PhD students](https://github.com/pliang279/awesome-phd-advice)
+[Collection of advice for prospective and current PhD students](https://github.com/pliang279/awesome-phd-advice)  
+
 [Grad School Advice by Jason Hong](http://www.cs.cmu.edu/~jasonh/advice.html)
+
 [Advice for Research Students by Jason Eisner](https://www.cs.jhu.edu/~jason/advice/)
+
 [Advice for researchers and students by Michael Ernst](https://homes.cs.washington.edu/~mernst/advice/)
+
 [Advice Collection by Tao Xie and Yuan Xie](https://taoxie.cs.illinois.edu/advice.htm)
+
 [Awesome CS PhD application advice by Jed Yang](https://jedyang.com/post/list-of-awesome-cs-phd-application-advice/)
+
 [CS PhD the greatest hits by Angela Jiang](https://phdadvice.carrd.co/)
+
 [List of PhD reflections by Stephen Tu](https://twitter.com/chaitjo/status/1444580607980281858?lang=en)
+
 [Useful computer vision PhD resources by Yana Hasson](https://github.com/hassony2/useful-computer-vision-phd-resources)
+
 [Checklists for Stat-ML PhD students by Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/checklists.html)
+
 [Grad School Resources by Kalpesh Krishna](https://martiansideofthemoon.github.io/2018/05/29/grad-resources.html)
 
 
