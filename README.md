@@ -89,22 +89,22 @@ Don't forget to hit the :star: if you like this repo.
 
 
 ## Other similar collections
-[Collection of advice for prospective and current PhD students](https://github.com/pliang279/awesome-phd-advice)  
-[Awesome-PhD with tools and resources when starting PhD](https://github.com/helenahartmann/awesome-PhD)
-[Grad School Advice by Jason Hong](http://www.cs.cmu.edu/~jasonh/advice.html)  
-[Advice for Research Students by Jason Eisner](https://www.cs.jhu.edu/~jason/advice/)  
-[Advice for researchers and students by Michael Ernst](https://homes.cs.washington.edu/~mernst/advice/)  
-[Advice Collection by Tao Xie and Yuan Xie](https://taoxie.cs.illinois.edu/advice.htm)  
-[Awesome CS PhD application advice by Jed Yang](https://jedyang.com/post/list-of-awesome-cs-phd-application-advice/)  
-[CS PhD the greatest hits by Angela Jiang](https://phdadvice.carrd.co/)  
-[List of PhD reflections by Stephen Tu](https://twitter.com/chaitjo/status/1444580607980281858?lang=en)  
-[Useful computer vision PhD resources by Yana Hasson](https://github.com/hassony2/useful-computer-vision-phd-resources)  
-[Checklists for Stat-ML PhD students by Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/checklists.html)  
-[Grad School Resources by Kalpesh Krishna](https://martiansideofthemoon.github.io/2018/05/29/grad-resources.html)  
-[Tips and tricks to an awesome CS master thesis](https://github.com/ocean1/awesome-thesis)  
-[PhD Modelling Search and Stopping in IIR](https://github.com/maxwelld90/phd)  
-[Awesome CS-Ja PhD Life](https://github.com/Kei18/awesome_cs-ja_phd_life)  
-[PhD Tools](https://github.com/alexcu/phd-tools)
+1. [Collection of advice for prospective and current PhD students](https://github.com/pliang279/awesome-phd-advice)  
+2. [Awesome-PhD with tools and resources when starting PhD](https://github.com/helenahartmann/awesome-PhD)
+3. [Grad School Advice by Jason Hong](http://www.cs.cmu.edu/~jasonh/advice.html)  
+4. [Advice for Research Students by Jason Eisner](https://www.cs.jhu.edu/~jason/advice/)  
+5. [Advice for researchers and students by Michael Ernst](https://homes.cs.washington.edu/~mernst/advice/)  
+6. [Advice Collection by Tao Xie and Yuan Xie](https://taoxie.cs.illinois.edu/advice.htm)  
+7. [Awesome CS PhD application advice by Jed Yang](https://jedyang.com/post/list-of-awesome-cs-phd-application-advice/)  
+8. [CS PhD the greatest hits by Angela Jiang](https://phdadvice.carrd.co/)  
+9. [List of PhD reflections by Stephen Tu](https://twitter.com/chaitjo/status/1444580607980281858?lang=en)  
+10. [Useful computer vision PhD resources by Yana Hasson](https://github.com/hassony2/useful-computer-vision-phd-resources)  
+11. [Checklists for Stat-ML PhD students by Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/checklists.html)  
+12. [Grad School Resources by Kalpesh Krishna](https://martiansideofthemoon.github.io/2018/05/29/grad-resources.html)  
+13. [Tips and tricks to an awesome CS master thesis](https://github.com/ocean1/awesome-thesis)  
+14. [PhD Modelling Search and Stopping in IIR](https://github.com/maxwelld90/phd)  
+15. [Awesome CS-Ja PhD Life](https://github.com/Kei18/awesome_cs-ja_phd_life)  
+16. [PhD Tools](https://github.com/alexcu/phd-tools)
 
 
 ## Contribution 🛠️
