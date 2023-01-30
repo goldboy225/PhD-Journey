@@ -90,6 +90,7 @@ Don't forget to hit the :star: if you like this repo.
 
 ## Other similar collections
 [Collection of advice for prospective and current PhD students](https://github.com/pliang279/awesome-phd-advice)  
+[Awesome-PhD with tools and resources when starting PhD](https://github.com/helenahartmann/awesome-PhD)
 [Grad School Advice by Jason Hong](http://www.cs.cmu.edu/~jasonh/advice.html)  
 [Advice for Research Students by Jason Eisner](https://www.cs.jhu.edu/~jason/advice/)  
 [Advice for researchers and students by Michael Ernst](https://homes.cs.washington.edu/~mernst/advice/)  
@@ -100,6 +101,11 @@ Don't forget to hit the :star: if you like this repo.
 [Useful computer vision PhD resources by Yana Hasson](https://github.com/hassony2/useful-computer-vision-phd-resources)  
 [Checklists for Stat-ML PhD students by Aaditya Ramdas](https://www.stat.cmu.edu/~aramdas/checklists.html)  
 [Grad School Resources by Kalpesh Krishna](https://martiansideofthemoon.github.io/2018/05/29/grad-resources.html)  
+[Tips and tricks to an awesome CS master thesis](https://github.com/ocean1/awesome-thesis)  
+[PhD Modelling Search and Stopping in IIR](https://github.com/maxwelld90/phd)  
+[Awesome CS-Ja PhD Life](https://github.com/Kei18/awesome_cs-ja_phd_life)  
+[PhD Tools](https://github.com/alexcu/phd-tools)
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/goldboy225/PhD-Journey/issues) for any improvements, suggestions or errors in the content.
