@@ -9,7 +9,11 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-## Learning sources:
+# Content:
+- [Tools for AI and Data Science](#tools-for-ai-and-data-science)  
+- [Datasets](#datasets)  
+- [Article writing](#article-writing)
+- [Machine Learning](#machine-learning)
 
 ### Tools for AI and Data Science
 | Topics | Sources | Introduction| Audience |
