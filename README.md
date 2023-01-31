@@ -12,8 +12,19 @@ Don't forget to hit the :star: if you like this repo.
 # Content:
 - [Tools for AI and Data Science](#tools-for-ai-and-data-science)  
 - [Datasets](#datasets)  
-- [Article writing](#article-writing)
-- [Machine Learning](#machine-learning)
+- [Article writing](#article-writing)  
+- [Books and Cheatsheet](#books-and-cheatsheet)  
+- [Other Collections for PhD](#other-collections-for-phd)  
+- [Thoughts in AI](#thoughts-in-ai)  
+- [The top list of academic research databases](#the-top-list-of-academic-research-databases)  
+- [Citation Management Tools](#citation-management-tools)  
+- [List of Journals](#list-of-journals)  
+- [Bootcamp](#bootcamp) 
+- [Machine Learning](#machine-learning)  
+- [Federate Learning](#federate-learning)  
+- [Internet of Things](#internet-of-things)  
+- [Career Development](#career-development)  
+
 
 ### Tools for AI and Data Science
 | Topics | Sources | Introduction| Audience |
@@ -93,7 +104,7 @@ Don't forget to hit the :star: if you like this repo.
 | [Data Science Interviews](https://github.com/alexeygrigorev/data-science-interviews)  | Github |Data science interview questions - with answers, theoretical questions involving linear models, trees, neural networks and others, technical questions involving SQL, Python, coding etc. | Application for DS job |
 
 
-## Other similar collections for PhD
+## Other Collections for PhD
 1. [Collection of advice for prospective and current PhD students](https://github.com/pliang279/awesome-phd-advice)  
 2. [Awesome-PhD with tools and resources when starting PhD](https://github.com/helenahartmann/awesome-PhD)
 3. [Grad School Advice by Jason Hong](http://www.cs.cmu.edu/~jasonh/advice.html)  
@@ -135,7 +146,7 @@ Whether you are writing a thesis, dissertation, or research paper it is a key ta
 | 7 | [Directory of Open Access Journals (DOAJ)](https://doaj.org/) | The DOAJ is very special academic database since all the articles indexed are open access and can be accessed freely of charge. |
 
 
-## The Best Bibliography Maker Tools: Online & Plug-In Citation Generators
+## Citation Management Tools
 Bibliography maker tools are some of the more helpful solutions for students and researchers alike. It’s no secret that many researchers wish to do away with this part after a laboring through their research methodology and other crucial parts of their papers. But various editing styles and their accompanying citation formats ensure that rendering this part of the paper does not come straightforward as it should.
 
 Today, there is a plethora of solutions in the market that were not available decades ago. These include self-created databases and web-based citation generators (Emanuel, 2013). With an array of options available, one might be asking what’s the best citation generator to use.
@@ -156,7 +167,7 @@ Today, there is a plethora of solutions in the market that were not available de
 | 12 | Citation Builder | Citation Builder is a free online bibliography maker hosted by the North Carolina State University library. It has a rather simplistic interface with dropdowns for the resource type and citation style. You just have to choose the options from the dropdown and manually fill out the needed information for the resource type. Once you hit Submit, it will generate a citation for you which you can then copy and paste to a document (NC State University, n.d.). | 
 | 13 | OttoBib | OttoBib is a straightforward online citation generator that lets you cite books using their International Standard Book Number (ISBNs). You can cite multiple ISBNs as long as they are separated with commas. OttoBib supports MLA, APA, Chicago/Turabian, BibTeX, and Wikipedia (OttoBib, n.d.). | 
 
-## List of Journal
+## List of Journals
 ### Scopus
 1. [International Journal on Informatics Visualization](https://joiv.org/index.php/joiv/index)
 2. [International Journal of Computing and Digital Systems](https://journal.uob.edu.bh/handle/123456789/31?id=about)
