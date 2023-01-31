@@ -18,6 +18,7 @@ Don't forget to hit the :star: if you like this repo.
 | [Awesome AI Tools](https://www.futurepedia.io/?sort=popular)  | Futurepedia |The largest AI tools depository, daily update| Anyone who likes use AI tools to play |
 | [Advanced Statistics for Data Science](https://www.coursera.org/specializations/advanced-statistics-data-science)  | Coursera |Familiarize yourself with fundamental concepts in probability and statistics, data analysis and linear models for Data Science.| Fundamentals for data science |
 | [MathGPT](https://mathgpt.streamlit.app/)  | GPT |Use GPT3 to solve math problems, and get the code behind each solution!| For efficient math operations |
+| [Chatsonic](https://app.writesonic.com/template/4e7fba46-e28b-459a-b105-63ae8ebdaaf5/chatsonic/1c4179de-e8a4-4cab-9cf9-3341e56d9a4c)  | GPT |Use GPT3 to solve math problems, and get the code behind each solution!| For efficient math operations |
 
 ### Datasets
 | Topics | Sources | Introduction| Audience |
