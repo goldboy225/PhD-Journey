@@ -15,7 +15,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Datasets](#datasets)  
 - [Article writing](#article-writing)  
 - [Books and Cheatsheet](#books-and-cheatsheet)  
-- [Other Collections for PhD](#other-collections-for-phd)  
+- [Awesome Collections for PhD](#awesome-collections-for-phd)  
 - [Thoughts in AI](#thoughts-in-ai)  
 - [The top list of academic research databases](#the-top-list-of-academic-research-databases)  
 - [Citation Management Tools](#citation-management-tools)  
@@ -107,7 +107,7 @@ Don't forget to hit the :star: if you like this repo.
 | [Data Science Interviews](https://github.com/alexeygrigorev/data-science-interviews)  | Github |Data science interview questions - with answers, theoretical questions involving linear models, trees, neural networks and others, technical questions involving SQL, Python, coding etc. | Application for DS job |
 
 
-## Other Collections for PhD
+## Awesome Collections for PhD
 1. [Collection of advice for prospective and current PhD students](https://github.com/pliang279/awesome-phd-advice)  
 2. [Awesome-PhD with tools and resources when starting PhD](https://github.com/helenahartmann/awesome-PhD)
 3. [Grad School Advice by Jason Hong](http://www.cs.cmu.edu/~jasonh/advice.html)  
