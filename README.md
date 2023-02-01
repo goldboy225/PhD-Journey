@@ -1,5 +1,4 @@
 # Things of PhD Journey
-
 Some important things that you are eager to have for the PhD journey.
 
 <a href="https://github.com/goldboy225/research-material/stargazers"><img src="https://img.shields.io/github/stars/goldboy225/PhD-Journey" alt="Stars Badge"/></a>
