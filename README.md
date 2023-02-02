@@ -21,7 +21,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Citation Management Tools](#citation-management-tools)  
 - [List of Journals](#list-of-journals)  
 - [Bootcamp](#bootcamp) 
-- [Machine Learning](#machine-learning)  
+- [Machine Learning and Deep Learning](#machine-learning-and-deep-learning)  
 - [Federate Learning](#federate-learning)  
 - [Internet of Things](#internet-of-things)  
 - [Career Development](#career-development)  
