@@ -11,6 +11,7 @@ Some important things that you are eager to have for the PhD journey
 Don't forget to hit the :star: if you like this repo.
 
 # Content:
+- [General Tips](#general-tips)
 - [Tools for AI and Data Science](#tools-for-ai-and-data-science)  
 - [Datasets](#datasets)  
 - [Article writing](#article-writing)  
@@ -25,7 +26,6 @@ Don't forget to hit the :star: if you like this repo.
 - [Federate Learning](#federate-learning)  
 - [Internet of Things](#internet-of-things)  
 - [Career Development](#career-development)  
-- [General Tips](#general-tips)
 
 ## General Tips
 [What's the different between Scopus and Web of Science?](https://spubl.com.ua/en/blog/scopus-ili-web-of-science-kak-vybrat-zhurnal-dlya-publikatsii-chto-luchshe)  
