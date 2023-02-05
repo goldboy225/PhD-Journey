@@ -25,9 +25,13 @@ Don't forget to hit the :star: if you like this repo.
 - [Federate Learning](#federate-learning)  
 - [Internet of Things](#internet-of-things)  
 - [Career Development](#career-development)  
+- [General Tips](#general-tips)
 
+## General Tips
+[What's the different between Scopus and Web of Science?](https://spubl.com.ua/en/blog/scopus-ili-web-of-science-kak-vybrat-zhurnal-dlya-publikatsii-chto-luchshe)  
+[List of Web of Science Journals in Computer Science](https://wosjournal.com/list-of-journals.php?id=Computer%20Science)
 
-### Tools for AI and Data Science
+## Tools for AI and Data Science
 | Topics | Sources | Introduction| Audience |
 |--|--|--|--|
 | [Interactive Canvas for DS](https://www.einblick.ai/?utm_source=LiAVSnB&utm_medium=LiPost&utm_campaign=NbAVS)  | Einblick |Einblick is the fastest and most collaborative way to explore data, create predictions, and deploy data apps. | Anyone who likes visual operation on datasets |
@@ -36,7 +40,7 @@ Don't forget to hit the :star: if you like this repo.
 | [MathGPT](https://mathgpt.streamlit.app/)  | GPT |Use GPT3 to solve math problems, and get the code behind each solution!| For efficient math operations |
 | [Chatsonic](https://app.writesonic.com/template/4e7fba46-e28b-459a-b105-63ae8ebdaaf5/chatsonic/1c4179de-e8a4-4cab-9cf9-3341e56d9a4c)  | Chatsonic | Chrome extension, Use personalized avatars, Write factual real-time content, Share, edit, download conversations| may be an alternative of ChatGPT |
 
-### Datasets
+## Datasets
 | Topics | Sources | Introduction| Audience |
 |--|--|--|--|
 | [Kaggle Datasets](https://www.kaggle.com/datasets)|Kaggle|A great playground for coding practice and competition with abundant datasets | Easy to follow |
@@ -49,7 +53,7 @@ Don't forget to hit the :star: if you like this repo.
 | [Earthdata](https://www.earthdata.nasa.gov/)|Earthdata|Your Gateway to NASA Earth Observation Data| Anyone DS |
 | [CERN Data Portal](http://opendata.cern.ch/)|CERN|The CERN Open Data portal is the access point to a growing range of data produced through the research performed at CERN. | Anyone DS |
 
-### Article writing
+## Article writing
 | Topics | Sources | Introduction| Audience |
 |--|--|--|--|
 | [Write a journal article in 12 weeks](https://wendybelcher.com/writing-advice/how-to-write-a-journal-article/)|Blog|In this workbook, Writing Your Journal Article in Twelve Weeks: A Guide to Academic Publishing Success, it take you through all the steps to revising a classroom paper, conference paper, or thesis chapter into a peer-reviewed journal article that you send to a journal. | Inexperienced writer |
@@ -60,7 +64,7 @@ Don't forget to hit the :star: if you like this repo.
 | [Quantitative and Qualitative Research for Beginners](https://www.edx.org/course/quantitative-and-qualitative-research-for-beginners)|edX|This course is designed as a basic introduction to the complex world of research methods and provides both theoretical and practical information for students to give them a foundation for carrying out research in a wide range of disciplines using quantitative, qualitative, and mixed methods.   | For anyone want to know Q&Q research |
 
 
-### Machine Learning and Deep Learning
+## Machine Learning and Deep Learning
 | Topics | Sources | Introduction| Audience |
 |--|--|--|--|
 | [Machine learing for everyone](https://vas3k.com/blog/machine_learning/)  | Blog | Clear blog materials with enough simplicity on machine learning knowledge  | Beginners |
@@ -70,7 +74,7 @@ Don't forget to hit the :star: if you like this repo.
 | [500 AI Coding Projects with Code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)  | ashishpatel26 | 500 AI Machine learning Deep learning Computer vision NLP Projects with code !!!  | Anyone who want to know AI by coding |
 
 
-### Books and Cheatsheet
+## Books and Cheatsheet
 | Topics | Sources | Introduction| Audience |
 |--|--|--|--|
 | [Python Pandas Cheat Sheet](https://drive.google.com/drive/u/0/folders/1-TqaKsrH7s0OgsKUJhkS10ZsLQiE1271)|Google Drive|Here is a quick Python Pandas cheatsheet that covers some of the most common functions and operations you will use when working with Pandas| Beginners |
@@ -80,28 +84,28 @@ Don't forget to hit the :star: if you like this repo.
 |[Python Cheat Sheat](https://drive.google.com/drive/u/0/folders/1-TqaKsrH7s0OgsKUJhkS10ZsLQiE1271)|by Frank Andrade|Involving pandas, numpy, sklearn, matplotlib, seaborn, BS4, Selenium, Scrapy|Python Practioners|
 |[97 things every data engineer should know](https://drive.google.com/drive/u/0/folders/1-TqaKsrH7s0OgsKUJhkS10ZsLQiE1271)|by Tobias Macey of O'Reilly, |Collective Wisdom from the Experts, this book is a collection of advice from a wide range of individuals who have learned valuable lessons about working with data the hard way. To save you the work of making their same mistakes, we have collected their advice to give you a set of building blocks that can be used to lay your own foundation for a successful career in data engineering.|for data engineer|
 
-### Bootcamp
+## Bootcamp
 | Topics | Sources | Introduction| Audience |
 |--|--|--|--|
 | [Data Analyst Roadmap](https://github.com/mrankitgupta/Data-Analyst-Roadmap)|Github|Data Analytics is the process of exploring and analyzing large datasets to find hidden patterns, unseen trends, discover correlations, and derive valuable insights to make business predictions. It helps in Improved Decision Making, Better Customer Service, Efficient Operations, Effective Marketing and Improves the Speed and Efficiency of the business.| For DS beginners |
 
-### Federate Learning
+## Federate Learning
 | Topics | Sources | Introduction| Audience |
 |--|--|--|--|
 | [Comic for Federate Learning](https://federated.withgoogle.com/)  | Blog | Interesting comic to understand federate learning, which is created by the federated learning team at Google AI. | Beginners |
 
-### Internet of Things
+## Internet of Things
 | Topics | Sources | Introduction| Audience |
 |--|--|--|--|
 | [IoT for beginners](https://github.com/microsoft/IoT-For-Beginners)  | Github |Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 24-lesson curriculum all about IoT basics. | Beginners |
 
-### Thoughts in AI
+## Thoughts in AI
 | Topics | Sources | Introduction| Audience |
 |--|--|--|--|
 | [Heroes of Deep Learning: Geoffrey Hinton](https://www.deeplearning.ai/blog/hodl-geoffrey-hinton/)  | Blog |Andrew sits down with Hinton to discuss his first exposure to AI, his current research projects, and his changing understanding of AI throughout the decades. | Anyone who is interested in AI knowledge |
 
 
-### Career Development
+## Career Development
 | Topics | Sources | Introduction| Audience |
 |--|--|--|--|
 | [Data Science Interviews](https://github.com/alexeygrigorev/data-science-interviews)  | Github |Data science interview questions - with answers, theoretical questions involving linear models, trees, neural networks and others, technical questions involving SQL, Python, coding etc. | Application for DS job |
