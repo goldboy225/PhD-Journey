@@ -12,7 +12,7 @@ Don't forget to hit the :star: if you like this repo.
 
 # Content:
 - [General Tips](#general-tips)
-- [Tools for AI and Data Science](#tools-for-ai-and-data-science)  
+- [Awesome AI and Data Science](#awesome-ai-and-data-science)  
 - [Datasets](#datasets)  
 - [Article writing](#article-writing)  
 - [Books and Cheatsheet](#books-and-cheatsheet)  
@@ -31,14 +31,21 @@ Don't forget to hit the :star: if you like this repo.
 [What's the different between Scopus and Web of Science?](https://spubl.com.ua/en/blog/scopus-ili-web-of-science-kak-vybrat-zhurnal-dlya-publikatsii-chto-luchshe)  
 [List of Web of Science Journals in Computer Science](https://wosjournal.com/list-of-journals.php?id=Computer%20Science)
 
-## Tools for AI and Data Science
-| Topics | Sources | Introduction| Audience |
-|--|--|--|--|
-| [Interactive Canvas for DS](https://www.einblick.ai/?utm_source=LiAVSnB&utm_medium=LiPost&utm_campaign=NbAVS)  | Einblick |Einblick is the fastest and most collaborative way to explore data, create predictions, and deploy data apps. | Anyone who likes visual operation on datasets |
-| [Awesome AI Tools](https://www.futurepedia.io/?sort=popular)  | Futurepedia |The largest AI tools depository, daily update| Anyone who likes use AI tools to play |
-| [Advanced Statistics for Data Science](https://www.coursera.org/specializations/advanced-statistics-data-science)  | Coursera |Familiarize yourself with fundamental concepts in probability and statistics, data analysis and linear models for Data Science.| Fundamentals for data science |
-| [MathGPT](https://mathgpt.streamlit.app/)  | GPT |Use GPT3 to solve math problems, and get the code behind each solution!| For efficient math operations |
-| [Chatsonic](https://app.writesonic.com/template/4e7fba46-e28b-459a-b105-63ae8ebdaaf5/chatsonic/1c4179de-e8a4-4cab-9cf9-3341e56d9a4c)  | Chatsonic | Chrome extension, Use personalized avatars, Write factual real-time content, Share, edit, download conversations| may be an alternative of ChatGPT |
+## Awesome AI and Data Science
+| Topics | Sources | Introduction| Audience |Date|
+|--|--|--|--|--|
+| [Interactive Canvas for DS](https://www.einblick.ai/?utm_source=LiAVSnB&utm_medium=LiPost&utm_campaign=NbAVS)  | Einblick |Einblick is the fastest and most collaborative way to explore data, create predictions, and deploy data apps. | Anyone who likes visual operation on datasets |2023-01-15|
+| [Awesome AI Tools](https://www.futurepedia.io/?sort=popular)  | Futurepedia |The largest AI tools depository, daily update| Anyone who likes use AI tools to play |2023-01-15|
+| [Advanced Statistics for Data Science](https://www.coursera.org/specializations/advanced-statistics-data-science)  | Coursera |Familiarize yourself with fundamental concepts in probability and statistics, data analysis and linear models for Data Science.| Fundamentals for data science |2023-01-15|
+| [MathGPT](https://mathgpt.streamlit.app/)  | GPT |Use GPT3 to solve math problems, and get the code behind each solution!| For efficient math operations |2023-01-15|
+| [Chatsonic](https://app.writesonic.com/template/4e7fba46-e28b-459a-b105-63ae8ebdaaf5/chatsonic/1c4179de-e8a4-4cab-9cf9-3341e56d9a4c)  | Chatsonic | Chrome extension, Use personalized avatars, Write factual real-time content, Share, edit, download conversations| may be an alternative of ChatGPT |2023-02-05|
+|[All algorithms implemented in Python](https://github.com/TheAlgorithms/Python)|The Algorithms|All algorithms implemented in Python, for education Implementations are for learning purposes only. They may be less efficient than the implementations in the Python standard library. Use them at your discretion.|Python coding|2023-02-06|
+|[Teaching/learning Python 3 (3.5+)](https://github.com/jerry-git/learn-python3)|Jerry Pussinen|This repository contains a collection of materials for teaching/learning Python 3 (3.5+).|Python learning for beginner and intermidate|2023-02-06|
+|[DataScienceResources](https://github.com/jonathan-bower/DataScienceResources)|jonathan-bower|The intended goal was to cover more than just the technical component of data science. I have tried to find topics that cover building data science teams, business practices, use-cases, product metrics and data science career paths. Hope this is helpful|Data science learner|2023-02-06|
+|[awesome-datascience](https://github.com/academic/awesome-datascience)|Fatih Aktürk, Hüseyin Mert & Osman Ungur, Recep Erol.|An open source Data Science repository to learn and apply towards solving real world problems. This is a shortcut path to start studying Data Science. Just follow the steps to answer the questions, "What is Data Science and what should I study to learn Data Science?"|Data science learner|2023-02-06|
+|[Data science roadmap](https://github.com/MrMimic/data-scientist-roadmap)|MrMimic, Swami Chandrasekaran|Jobs linked to data science are becoming more and more popular. A bunch of tutorials could easily complete this roadmap, helping whoever wants to start learning stuff about data science. For the moment, a lot is got on wikipedia (except for codes, always handmade). Any help's thus welcome!|roadmap for learning DS|20230-02-06|
+|[Data-science-best-resources](https://github.com/tirthajyoti/Data-science-best-resources/blob/master/README.md)|Tirthajyoti Sarkar|Data Science Collected Resources. A trove of carefully curated resources and links (on the topics of software, platforms, language, techniques, etc.) related to data science, all in one place.|comprehensive materials on DS|2023-02-06|
+
 
 ## Datasets
 | Topics | Sources | Introduction| Audience |
