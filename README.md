@@ -30,7 +30,7 @@ Don't forget to hit the :star: if you like this repo.
 ## General Tips
 [What's the different between Scopus and Web of Science?](https://spubl.com.ua/en/blog/scopus-ili-web-of-science-kak-vybrat-zhurnal-dlya-publikatsii-chto-luchshe)  
 [List of Web of Science Journals in Computer Science](https://wosjournal.com/list-of-journals.php?id=Computer%20Science)
-[Between Python and Julia: A Comparative Analysis](https://deeplearningmy.com/between-python-and-julia-a-comparative-analysis/) |2023-02-06|
+[Between Python and Julia: A Comparative Analysis](https://deeplearningmy.com/between-python-and-julia-a-comparative-analysis/) |2023-02-06|  
 [A.I. and education can go hand and hand, says Khan Academy’s Sal Khan](https://www.cnbc.com/video/2023/02/08/ai-and-education-can-go-hand-and-hand-says-khan-academys-sal-khan.html) |2023-02-10|
 
 ## Awesome AI and Data Science
