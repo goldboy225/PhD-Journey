@@ -32,8 +32,7 @@ Don't forget to hit the :star: if you like this repo.
 [List of Web of Science Journals in Computer Science](https://wosjournal.com/list-of-journals.php?id=Computer%20Science)
 [Between Python and Julia: A Comparative Analysis](https://deeplearningmy.com/between-python-and-julia-a-comparative-analysis/) |2023-02-06|  
 [A.I. and education can go hand and hand, says Khan Academy’s Sal Khan](https://www.cnbc.com/video/2023/02/08/ai-and-education-can-go-hand-and-hand-says-khan-academys-sal-khan.html) |2023-02-10|  
-[Applied ML, Curated papers, articles, and blogs on data science & machine learning in production.](https://github.com/eugeneyan/applied-ml)|eugeneyan
-|2023-02-13|
+[The ChatGPT prompts any data scientist must use](https://medium.datadriveninvestor.com/the-chatgpt-prompts-any-data-scientist-must-use-5921867fd74e) |Abhinaba Banerjee|2023-02-13|
 
 
 ## Awesome AI and Data Science
@@ -83,18 +82,19 @@ Don't forget to hit the :star: if you like this repo.
 
 
 ## Machine Learning and Deep Learning
-| Topics | Sources | Introduction| Audience |
-|--|--|--|--|
+| Topics | Sources | Introduction| Audience | Date |
+|--|--|--|--|--|
 | [Machine learing for everyone](https://vas3k.com/blog/machine_learning/)  | Blog | Clear blog materials with enough simplicity on machine learning knowledge  | Beginners |
 | [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners)  | Microsoft | A 12-week, 26-lesson curriculum all about Machine Learning offered by Microsoft Azure. In this curriculum, you will learn about what is sometimes called classic machine learning, using primarily Scikit-learn as a library  | Beginners |
 | [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) | josephmisiti | A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by awesome-php. Moreover with resources: a list of free machine learning books, professional machine learning events, free machine learning courses available online, blogs and newsletters on data science and machine learning, free-to-attend meetups and local events | Anyone who is interested in AI knowledge |
 | [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle)  | kmario23 | You can find nearly any learning resource about deep learning and machine learning etc, the only thing you have to consider is which is the best for you and how long you can finish it. A COMPREHENSIVE repo with deep learning, machine learning, reinforcement learning, optimizaition in machine learning, CV, NLP, Boot Camps or Summer Schools.  | Anyone want to be a DL/ML professional |
 | [500 AI Coding Projects with Code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)  | ashishpatel26 | 500 AI Machine learning Deep learning Computer vision NLP Projects with code !!!  | Anyone who want to know AI by coding |
-
+|[Applied ML](https://github.com/eugeneyan/applied-ml)|Curated papers, articles, and blogs on data science & machine learning in production.|eugeneyan|ML stuff|2023-02-13|
 
 ## Books and Cheatsheet
-| Topics | Sources | Introduction| Audience |
-|--|--|--|--|
+| Topics | Sources | Introduction| Audience |Date|
+|--|--|--|--|--|
+|[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)|Al Sweigart|In Automate the Boring Stuff with Python, you'll learn how to use Python to write programs that do in minutes what would take you hours to do by hand - no prior programming experience required.|Practical Programming for Total Beginners|2023-02-13|
 | [Python Pandas Cheat Sheet](https://drive.google.com/drive/u/0/folders/1-TqaKsrH7s0OgsKUJhkS10ZsLQiE1271)|Google Drive|Here is a quick Python Pandas cheatsheet that covers some of the most common functions and operations you will use when working with Pandas| Beginners |
 | [The Filed Guide to Data Science](https://drive.google.com/file/d/1PI345nxrOutnG4Pu4EI9_pK5ejSjsQlY/view?usp=share_link) | Google Drive | Comprehensive content, you can get big idea of data science from P74~75  | DS Practioners |
 | [MACHINE LEARNING LECTURE NOTES by MALLA REDDY COLLEGE](https://drive.google.com/file/d/1PI345nxrOutnG4Pu4EI9_pK5ejSjsQlY/view?usp=share_link) | Google Drive | (R17A0534) Machine Learning, Objectives: Acquire theoretical Knowledge on setting hypothesis for pattern recognition. Apply suitable machine learning techniques for data handling and to gain knowledge from it. Evaluate the performance of algorithms and to provide solution for various real world applications.  | ML Beginners |
