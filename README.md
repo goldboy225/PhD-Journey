@@ -85,12 +85,13 @@ Don't forget to hit the :star: if you like this repo.
 ## Machine Learning and Deep Learning
 | Topics | Sources | Introduction| Audience | Date |
 |--|--|--|--|--|
+|[Machine Learning Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code)|Alexey Grigorev|Machine Learning Zoomcamp is a course based on the book, it's online and free, you can join at any moment.|For ML begineers and practioners |2023-02-15|
 | [Machine learing for everyone](https://vas3k.com/blog/machine_learning/)  | Blog | Clear blog materials with enough simplicity on machine learning knowledge  | Beginners |
 | [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners)  | Microsoft | A 12-week, 26-lesson curriculum all about Machine Learning offered by Microsoft Azure. In this curriculum, you will learn about what is sometimes called classic machine learning, using primarily Scikit-learn as a library  | Beginners |
 | [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) | josephmisiti | A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by awesome-php. Moreover with resources: a list of free machine learning books, professional machine learning events, free machine learning courses available online, blogs and newsletters on data science and machine learning, free-to-attend meetups and local events | Anyone who is interested in AI knowledge |
 | [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle)  | kmario23 | You can find nearly any learning resource about deep learning and machine learning etc, the only thing you have to consider is which is the best for you and how long you can finish it. A COMPREHENSIVE repo with deep learning, machine learning, reinforcement learning, optimizaition in machine learning, CV, NLP, Boot Camps or Summer Schools.  | Anyone want to be a DL/ML professional |
 | [500 AI Coding Projects with Code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)  | ashishpatel26 | 500 AI Machine learning Deep learning Computer vision NLP Projects with code !!!  | Anyone who want to know AI by coding |
-|[Applied ML](https://github.com/eugeneyan/applied-ml)|Curated papers, articles, and blogs on data science & machine learning in production.|eugeneyan|ML stuff|2023-02-13|
+|[Applied ML](https://github.com/eugeneyan/applied-ml)|eugeneyan|Curated papers, articles, and blogs on data science & machine learning in production.|ML stuff|2023-02-13|
 
 ## Books and Cheatsheet
 | Topics | Sources | Introduction| Audience |Date|
