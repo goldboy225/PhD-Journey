@@ -13,6 +13,7 @@ Don't forget to hit the :star: if you like this repo.
 # Content:
 - [General Tips](#general-tips)
 - [Awesome AI and Data Science](#awesome-ai-and-data-science)  
+- [Things of Python](#things-of-python)   
 - [Datasets](#datasets)  
 - [Article writing](#article-writing)  
 - [Books and Cheatsheet](#books-and-cheatsheet)  
@@ -51,6 +52,9 @@ Don't forget to hit the :star: if you like this repo.
 |[Data science roadmap](https://github.com/MrMimic/data-scientist-roadmap)|MrMimic, Swami Chandrasekaran|Jobs linked to data science are becoming more and more popular. A bunch of tutorials could easily complete this roadmap, helping whoever wants to start learning stuff about data science. For the moment, a lot is got on wikipedia (except for codes, always handmade). Any help's thus welcome!|roadmap for learning DS|20230-02-06|
 |[Data-science-best-resources](https://github.com/tirthajyoti/Data-science-best-resources/blob/master/README.md)|Tirthajyoti Sarkar|Data Science Collected Resources. A trove of carefully curated resources and links (on the topics of software, platforms, language, techniques, etc.) related to data science, all in one place.|comprehensive materials on DS|2023-02-06|
 
+## Things of Python
+| Sources | Introduction| Audience |Date|
+|[Python Basics](https://www.coursya.com/product/python-basics/?utm_source=LinkedIn&utm_campaign=AR)|This course introduces the basics of Python 3, including conditional execution and iteration as control structures, and strings and lists as data structures. You’ll program an on-screen Turtle to draw pretty pictures. You’ll also learn to draw reference diagrams as a way to reason about program executions, which will help to build up your debugging skills. |Python beginners|2023-02-15|
 
 ## Datasets
 | Topics | Sources | Introduction| Audience |
@@ -81,6 +85,7 @@ Don't forget to hit the :star: if you like this repo.
 | [Johns Hopkins - Introduction to Systematic Review and Meta-Analysis](https://www.coursera.org/learn/systematic-review)|We will introduce methods to perform systematic reviews and meta-analysis of clinical trials. We will cover how to formulate an answerable research question, define inclusion and exclusion criteria, search for the evidence, extract data, assess the risk of bias in clinical trials, and perform a meta-analysis.   | For writing LSR |
 | [Quantitative and Qualitative Research for Beginners](https://www.edx.org/course/quantitative-and-qualitative-research-for-beginners)|This course is designed as a basic introduction to the complex world of research methods and provides both theoretical and practical information for students to give them a foundation for carrying out research in a wide range of disciplines using quantitative, qualitative, and mixed methods.   | For anyone want to know Q&Q research |
 
+## 
 
 ## Machine Learning and Deep Learning
 | Topics | Sources | Introduction| Audience | Date |
