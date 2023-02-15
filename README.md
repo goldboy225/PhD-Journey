@@ -103,6 +103,7 @@ Don't forget to hit the :star: if you like this repo.
 ## Books and Cheatsheet
 | Topics | Sources | Introduction| Audience |Date|
 |--|--|--|--|--|
+|[Python for Data Analysis, 3E](https://wesmckinney.com/book/)|O'reilly|The book has been updated for pandas 1.4.0 and Python 3.10. The changes between the 2nd and 3rd editions are focused on bringing the content up-to-date with changes in pandas since 2017.|Python learners |2023-02-15|
 |[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)|Al Sweigart|In Automate the Boring Stuff with Python, you'll learn how to use Python to write programs that do in minutes what would take you hours to do by hand - no prior programming experience required.|Practical Programming for Total Beginners|2023-02-13|
 | [Python Pandas Cheat Sheet](https://drive.google.com/drive/u/0/folders/1-TqaKsrH7s0OgsKUJhkS10ZsLQiE1271)|Google Drive|Here is a quick Python Pandas cheatsheet that covers some of the most common functions and operations you will use when working with Pandas| Beginners |
 | [The Filed Guide to Data Science](https://drive.google.com/file/d/1PI345nxrOutnG4Pu4EI9_pK5ejSjsQlY/view?usp=share_link) | Google Drive | Comprehensive content, you can get big idea of data science from P74~75  | DS Practioners |
