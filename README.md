@@ -55,7 +55,10 @@ Don't forget to hit the :star: if you like this repo.
 ## Things of Python
 | Sources | Introduction| Audience |Date|
 |--|--|--|--|
-|[Python Basics](https://www.coursya.com/product/python-basics/?utm_source=LinkedIn&utm_campaign=AR)|This course introduces the basics of Python 3, including conditional execution and iteration as control structures, and strings and lists as data structures. You’ll program an on-screen Turtle to draw pretty pictures. You’ll also learn to draw reference diagrams as a way to reason about program executions, which will help to build up your debugging skills. |Python beginners|2023-02-15|
+|[Python Basics](https://www.coursya.com/product/python-basics/?utm_source=LinkedIn&utm_campaign=AR)|This course introduces the basics of Python 3, including conditional execution and iteration as control structures, and strings and lists as data structures. |Python beginners|2023-02-15|
+|[Python for Everybody Specialization](https://www.coursya.com/product/python-for-everybody-specialization/?utm_source=LinkedIn&utm_campaign=AR)|This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. |Vocational Training|2023-02-15|
+|[Programming for Everybody (Getting Started with Python)](https://www.coursya.com/product/programming-for-everybody-getting-started-with-python/?utm_source=LinkedIn&utm_campaign=AR)|This course aims to teach everyone the basics of programming computers using Python. |For beginners|2023-02-15|
+
 
 ## Datasets
 | Topics | Sources | Introduction| Audience |
@@ -85,8 +88,6 @@ Don't forget to hit the :star: if you like this repo.
 | [Writing in English at University](https://www.coursera.org/learn/writing-english-university)|Acquiring good academic research and writing skills early on is essential for your success both at university and in your professional life.  | Inexperienced writer |
 | [Johns Hopkins - Introduction to Systematic Review and Meta-Analysis](https://www.coursera.org/learn/systematic-review)|We will introduce methods to perform systematic reviews and meta-analysis of clinical trials. We will cover how to formulate an answerable research question, define inclusion and exclusion criteria, search for the evidence, extract data, assess the risk of bias in clinical trials, and perform a meta-analysis.   | For writing LSR |
 | [Quantitative and Qualitative Research for Beginners](https://www.edx.org/course/quantitative-and-qualitative-research-for-beginners)|This course is designed as a basic introduction to the complex world of research methods and provides both theoretical and practical information for students to give them a foundation for carrying out research in a wide range of disciplines using quantitative, qualitative, and mixed methods.   | For anyone want to know Q&Q research |
-
-## 
 
 ## Machine Learning and Deep Learning
 | Topics | Sources | Introduction| Audience | Date |
