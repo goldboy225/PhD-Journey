@@ -11,7 +11,7 @@ Some important things that you are eager to have for the PhD journey
 Don't forget to hit the :star: if you like this repo.
 
 # Content:
-- [Literatures Daily](https://github.com/goldboy225/PhD-Journey)
+- [Literatures Daily](https://github.com/goldboy225/PhD-Journey/blob/main/Literatures%20Daily.md)
 - [General Tips](#general-tips)
 - [Awesome AI and Data Science](#awesome-ai-and-data-science)  
 - [Things of Python](#things-of-python)   
