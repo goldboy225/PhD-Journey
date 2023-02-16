@@ -1,12 +1,12 @@
 This is the repository to save the recent new literatures collected, skimmed, and read, to keep up with pace of the-state-of-the art works.
 
 # Contents:
-- [2022-02-16 ](#2022-02-16)
-- [2022-02-17 ](#2022-02-17)
+- [2023-02-16 ](#2023-02-16)
+- [2023-02-17 ](#2023-02-17)
 - 
 
 
-## 2022-02-16  
+## 2023-02-16  
 **Journal paper**: [Deeper Fine-Tuned Autoencoder for User Datagram Protocol Flooding
 Network Traffic Detection in Internet of Things](https://assets.researchsquare.com/files/rs-2442056/v1/2e9544e4-f9c6-439e-85ca-ba8cab820ecf.pdf?c=1675440862), Ömer KASIM (  omerksm@gmail.com ), Kutahya Dumlupinar University: Kutahya Dumlupinar Universitesi https://orcid.org/0000-0003-4021-5412
 - Idea: prefer **deeper model** for higher performance rather than shallow models, proposed a classification with high accuracy and performance can be performed by encoding the selected features deeper
