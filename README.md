@@ -35,7 +35,8 @@ Don't forget to hit the :star: if you like this repo.
 [Between Python and Julia: A Comparative Analysis](https://deeplearningmy.com/between-python-and-julia-a-comparative-analysis/) |2023-02-06|  
 [A.I. and education can go hand and hand, says Khan Academy’s Sal Khan](https://www.cnbc.com/video/2023/02/08/ai-and-education-can-go-hand-and-hand-says-khan-academys-sal-khan.html) |2023-02-10|  
 [The ChatGPT prompts any data scientist must use](https://medium.datadriveninvestor.com/the-chatgpt-prompts-any-data-scientist-must-use-5921867fd74e) |Abhinaba Banerjee|2023-02-13|   
-[Not stuck in git](https://www.linkedin.com/feed/update/urn:li:activity:7029577352955219968/?utm_source=share&utm_medium=member_ios) |Brooke Jamieson|2023-02-13|
+[Not stuck in git](https://www.linkedin.com/feed/update/urn:li:activity:7029577352955219968/?utm_source=share&utm_medium=member_ios) |Brooke Jamieson|2023-02-13|  
+[Lazy predict tool with basic metrics of classsification and regression](https://github.com/shankarpandala/lazypredict) |2023-02-21|
 
 
 ## Awesome AI and Data Science
