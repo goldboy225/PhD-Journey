@@ -212,8 +212,8 @@ Today, there is a plethora of solutions in the market that were not available de
 4. [International Journal of Information and Computer Security](https://www.inderscience.com/jhome.php?jcode=ijics) | The longest time can be nearly 2 years!  
 5. [International Journal of Electronic Security and Digital Forensics](https://www.inderscience.com/jhome.php?jcode=ijesdf) | Around 1 year.  
 6. [International Journal of Communication Networks and Distributed Systems](https://www.inderscience.com/jhome.php?jcode=ijcnds) | 1 year to 1.5 year.
-7. [International Journal of Security and Networks](https://www.inderscience.com/jhome.php?jcode=ijsn)
-8. [International Journal of Mobile Network Design and Innovation](https://www.inderscience.com/jhome.php?jcode=ijmndi)
+7. [International Journal of Security and Networks](https://www.inderscience.com/jhome.php?jcode=ijsn) | 1 year to 1.5 year.
+8. [International Journal of Mobile Network Design and Innovation](https://www.inderscience.com/jhome.php?jcode=ijmndi) | 
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/goldboy225/PhD-Journey/issues) for any improvements, suggestions or errors in the content.
