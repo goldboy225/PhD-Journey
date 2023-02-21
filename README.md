@@ -206,7 +206,7 @@ Today, there is a plethora of solutions in the market that were not available de
 
 ## List of Journals
 ### Scopus
-1. [International Journal on Informatics Visualization](https://joiv.org/index.php/joiv/index)
+1. [International Journal on Informatics Visualization](https://joiv.org/index.php/joiv/index) | The longest time can be nearly 2 years!
 2. [International Journal of Computing and Digital Systems](https://journal.uob.edu.bh/handle/123456789/31?id=about)
 3. [International Journal of Sensor Networks](https://www.inderscience.com/jhome.php?jcode=ijsnet)
 4. [International Journal of Information and Computer Security](https://www.inderscience.com/jhome.php?jcode=ijics)
