@@ -208,10 +208,10 @@ Today, there is a plethora of solutions in the market that were not available de
 ### Scopus
 1. [International Journal on Informatics Visualization](https://joiv.org/index.php/joiv/index) 
 2. [International Journal of Computing and Digital Systems](https://journal.uob.edu.bh/handle/123456789/31?id=about)
-3. [International Journal of Sensor Networks](https://www.inderscience.com/jhome.php?jcode=ijsnet) | around 6 months to 10 months.   
+3. [International Journal of Sensor Networks](https://www.inderscience.com/jhome.php?jcode=ijsnet) | WoS indexed, around 6 months to 10 months.   
 4. [International Journal of Information and Computer Security](https://www.inderscience.com/jhome.php?jcode=ijics) | The longest time can be nearly 2 years!  
-5. [International Journal of Electronic Security and Digital Forensics](https://www.inderscience.com/jhome.php?jcode=ijesdf) | around 1 year.  
-6. [International Journal of Communication Networks and Distributed Systems](https://www.inderscience.com/jhome.php?jcode=ijcnds) | around 1 year to 1.5 year.
+5. [International Journal of Electronic Security and Digital Forensics](https://www.inderscience.com/jhome.php?jcode=ijesdf) | WoS indexed，Q4, around 1 year.  
+6. [International Journal of Communication Networks and Distributed Systems](https://www.inderscience.com/jhome.php?jcode=ijcnds) | WoS indexed, Q4, around 1 year to 1.5 year.
 7. [International Journal of Security and Networks](https://www.inderscience.com/jhome.php?jcode=ijsn) | around 1 year to 1.5 year.
 8. [International Journal of Mobile Network Design and Innovation](https://www.inderscience.com/jhome.php?jcode=ijmndi) | around 1 year to 1.5 year.
 
