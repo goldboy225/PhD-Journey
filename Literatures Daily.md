@@ -96,7 +96,7 @@ interruption location techniques that utilise them.
 - Keyword: network management, machine learning
 - Idea: ML applications in the field of network measurement
 
-[Anomaly based network intrusion detection for IoT attacks using deep learning technique](https://www-sciencedirect com.ezproxy.utm.my/science/article/pii/S0045790623000514) by Bhawana Sharma, Computers and Electrical Engineering Volume 107, April 2023, 108626
+[Anomaly based network intrusion detection for IoT attacks using deep learning technique](https://www-sciencedirect.com.ezproxy.utm.my/science/article/pii/S0045790623000514)by Bhawana Sharma, Computers and Electrical Engineering Volume 107, April 2023, 108626
 - Keyword: Feature selection by DNN, various tuning on hyper parameters, GAN for class imbalance
 - Idea: **a filter-based feature selection Deep Neural Network (DNN)** model where highly correlated features are dropped has been presented, further, the model is **tuned with various parameters and hyper parameters**, **Generative Adversarial Networks (GANs)** were used to generate synthetic data of minority attacks to resolve class imbalance issues in the dataset and achieved 91% accuracy with balanced class dataset.
 - Datasets: UNSW-NB15
