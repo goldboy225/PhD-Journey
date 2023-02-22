@@ -4,7 +4,8 @@ This is the repository to save the recent new literatures collected, skimmed, an
 - [2023-02-16 ](#2023-02-16)
 - [2023-02-17 ](#2023-02-17)
 - [2023-02-18 ](#2023-02-18)
-
+- ...
+- [2023-02-22 ](#2023-02-22)
 
 ## 2023-02-16  
 **Journal paper**: [Deeper Fine-Tuned Autoencoder for User Datagram Protocol Flooding
@@ -88,3 +89,22 @@ interruption location techniques that utilise them.
 - Attacks: 
 - Models: 
 - Result: 
+
+
+## 2023-02-22
+[A Survey: Network Feature Measurement Based on Machine Learning](https://www.mdpi.com/2076-3417/13/4/2551) by Muyi Sun et al., Appl. Sci. 2023, 13(4), 2551; https://doi.org/10.3390/app13042551
+- Keyword: network management, machine learning
+- Idea: ML applications in the field of network measurement
+
+[Anomaly based network intrusion detection for IoT attacks using deep learning technique](https://www-sciencedirect com.ezproxy.utm.my/science/article/pii/S0045790623000514) by Bhawana Sharma, Computers and Electrical Engineering Volume 107, April 2023, 108626
+- Keyword: Feature selection by DNN, various tuning on hyper parameters, GAN for class imbalance
+- Idea: **a filter-based feature selection Deep Neural Network (DNN)** model where highly correlated features are dropped has been presented, further, the model is **tuned with various parameters and hyper parameters**, **Generative Adversarial Networks (GANs)** were used to generate synthetic data of minority attacks to resolve class imbalance issues in the dataset and achieved 91% accuracy with balanced class dataset.
+- Datasets: UNSW-NB15
+
+[Android-IoT Malware Classification and Detection Approach Using Deep URL Features Analysis](https://www.igi-global.com/article/android-iot-malware-classification-and-detection-approach-using-deep-url-features-analysis/318414) by Farhan Ullah et al, Journal of Database Management (JDM) 34(2)
+- Idea: Malware classification on encrypt application traffic with URL
+
+[A NOVEL APPROACH FOR A NEW MECHANISM IN NETWORK INTRUSION DETECTION SYSTEM ](https://www.journal-dogorangsang.in/no_1_Online_23/16_feb.pdf) by PACHIPULUSU RENUKA DEVI et al., Dogo Rangsang Research Journal 2023
+- Keyword: ANN, SVM, wrapper feature selection
+- Idea: comparison between ANN and SVM with wrapper FS, and ANN outperformed SVM.
+- Datasets: NSL-KDD
