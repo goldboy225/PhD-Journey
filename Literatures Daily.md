@@ -108,3 +108,12 @@ interruption location techniques that utilise them.
 - Keyword: ANN, SVM, wrapper feature selection
 - Idea: comparison between ANN and SVM with wrapper FS, and ANN outperformed SVM.
 - Datasets: NSL-KDD
+
+[CSK-CNN: Network Intrusion Detection Model Based on Two-Layer Convolution Neural Network for Handling Imbalanced Dataset](https://www.mdpi.com/2078-2489/14/2/130) by Jiaming Song et al., Information 2023, 14(2), 130; https://doi.org/10.3390/info14020130
+- Problem: The performance of classifier is not very good in identifying abnormal traffic for **minority classes**.
+- Keyword: minority classes, two-layer classifier, 
+- Idea: CSK combines the cluster based Synthetic Minority Over Sampling Technique (Cluster-SMOTE) and K-means based under sampling algorithm. Through the **two-layer network**, abnormal traffic can not only be identified, but also be classified into **specific attack types**.
+- Datasets: UNSW-NB15 and CICIDS2017
+- Attacks: layer1 for abnormal, layer2 for specific attacks
+- Metrics: accuracy, recall, precision, F1-score, ROC curve, AUC value, training time and testing time
+- Results: The experiment shows that the proposed CSK-CNN in this paper is obviously superior to other comparison algorithms in terms of network intrusion detection performance, and is suitable for deployment in the real network environment.
