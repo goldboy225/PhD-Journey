@@ -1,11 +1,12 @@
 This is the repository to save the recent new literatures collected, skimmed, and read, to keep up with pace of the-state-of-the art works.
 
 # Contents:
-- [2023-02-16 ](#2023-02-16)
-- [2023-02-17 ](#2023-02-17)
-- [2023-02-18 ](#2023-02-18)
+- [2023-02-16](#2023-02-16)
+- [2023-02-17](#2023-02-17)
+- [2023-02-18](#2023-02-18)
 - ...
-- [2023-02-22 ](#2023-02-22)
+- [2023-02-22](#2023-02-22)
+- [2023-02-23](#2023-02-23)
 
 ## 2023-02-16  
 **Journal paper**: [Deeper Fine-Tuned Autoencoder for User Datagram Protocol Flooding
@@ -117,3 +118,13 @@ interruption location techniques that utilise them.
 - Attacks: layer1 for abnormal, layer2 for specific attacks
 - Metrics: accuracy, recall, precision, F1-score, ROC curve, AUC value, training time and testing time
 - Results: The experiment shows that the proposed CSK-CNN in this paper is obviously superior to other comparison algorithms in terms of network intrusion detection performance, and is suitable for deployment in the real network environment.
+
+## 2023-02-23
+[An Ensemble Tree-Based Model for Intrusion Detection in Industrial Internet of Things Networks](https://scholar.google.com.au/scholar_url?url=https://www.mdpi.com/2076-3417/13/4/2479/pdf&hl=en&sa=X&d=14855942219278156803&ei=CM3wY8PjNseAywSTq47oAQ&scisig=AAGBfm2y88blA2jA4xBUbxDfQSWkTIVV6w&oi=scholaralrt&hist=dxijuU4AAAAJ:12171303415466890748:AAGBfm1CvZn-d7F9Q_WvAc3ggjulOSp6jg&html=&pos=0&folt=cit) by JB Awotunde et al., Applied Science, 2023
+- Problem: the requisite machine learning models **require some time** to detect assaults because of **the diverse IIoT network traffic properties**.
+- Keyword: ensemble models, feature selection, IIoT
+- Idea: this study proposes **ensemble models** enabled with a **feature selection** classifier for Intrusion Detection in the IIoT network.
+- Methodology: The **Chi-Square Statistical method** was used for feature selection, and various ensemble classifiers, such as **eXtreme gradient boosting (XGBoost), Bagging, extra trees (ET), random forest (RF), and AdaBoost** can be used for the detection of intrusion applied to the Telemetry data of the TON_IoT datasets.
+- Datasets: TON_IoT datasets
+- Metrics: accuracy, recall, precision, F1-score, and confusion matrix
+- Results: The results indicate that the XGBoost ensemble showed superior performance with the highest accuracy over other models across the datasets in detecting and classifying IIoT attacks.
