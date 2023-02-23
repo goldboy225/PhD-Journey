@@ -30,13 +30,16 @@ Don't forget to hit the :star: if you like this repo.
 - [Career Development](#career-development)  
 
 ## General Tips
-[What's the different between Scopus and Web of Science?](https://spubl.com.ua/en/blog/scopus-ili-web-of-science-kak-vybrat-zhurnal-dlya-publikatsii-chto-luchshe)  
-[List of Web of Science Journals in Computer Science](https://wosjournal.com/list-of-journals.php?id=Computer%20Science)
-[Between Python and Julia: A Comparative Analysis](https://deeplearningmy.com/between-python-and-julia-a-comparative-analysis/) |2023-02-06|  
-[A.I. and education can go hand and hand, says Khan Academy’s Sal Khan](https://www.cnbc.com/video/2023/02/08/ai-and-education-can-go-hand-and-hand-says-khan-academys-sal-khan.html) |2023-02-10|  
-[The ChatGPT prompts any data scientist must use](https://medium.datadriveninvestor.com/the-chatgpt-prompts-any-data-scientist-must-use-5921867fd74e) |Abhinaba Banerjee|2023-02-13|   
-[Not stuck in git](https://www.linkedin.com/feed/update/urn:li:activity:7029577352955219968/?utm_source=share&utm_medium=member_ios) |Brooke Jamieson|2023-02-13|  
-[Lazy predict tool with basic metrics of classsification and regression](https://github.com/shankarpandala/lazypredict) |2023-02-21|
+- [What's the different between Scopus and Web of Science?](https://spubl.com.ua/en/blog/scopus-ili-web-of-science-kak-vybrat-zhurnal-dlya-publikatsii-chto-luchshe)  
+- [List of Web of Science Journals in Computer Science](https://wosjournal.com/list-of-journals.php?id=Computer%20Science)
+- [Between Python and Julia: A Comparative Analysis](https://deeplearningmy.com/between-python-and-julia-a-comparative-analysis/) |2023-02-06|  
+- [A.I. and education can go hand and hand, says Khan Academy’s Sal Khan](https://www.cnbc.com/video/2023/02/08/ai-and-education-can-go-hand-and-hand-says-khan-academys-sal-khan.html) |2023-02-10|  
+- [The ChatGPT prompts any data scientist must use](https://medium.datadriveninvestor.com/the-chatgpt-prompts-any-data-scientist-must-use-5921867fd74e) |Abhinaba Banerjee|2023-02-13|   
+- [Not stuck in git](https://www.linkedin.com/feed/update/urn:li:activity:7029577352955219968/?utm_source=share&utm_medium=member_ios) |Brooke Jamieson|2023-02-13|  
+- [Lazy predict tool with basic metrics of classsification and regression](https://github.com/shankarpandala/lazypredict) |2023-02-21|
+- [Scite, AI-powered for real citations to actually published papers](https://twitter.com/mushtaqbilalphd/status/1627938511822151686?s=46&t=HIgzuXDByZtNfld-Eh5Qdw) |2023-02-23| 
+- [Systematic Literature Review of Information Extraction From Textual Data: Recent Methods, Applications, Trends, and Challenges](ieeexplore.ieee.org/document/10032132) This study investigated and described the most contemporary methods for extracting information from textual data, emphasizing their benefits and shortcomings. |2023-02-23|. 
+
 
 
 ## Awesome AI and Data Science
