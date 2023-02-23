@@ -125,6 +125,10 @@ interruption location techniques that utilise them.
 - Keyword: ensemble models, feature selection, IIoT
 - Idea: this study proposes **ensemble models** enabled with a **feature selection** classifier for Intrusion Detection in the IIoT network.
 - Methodology: The **Chi-Square Statistical method** was used for feature selection, and various ensemble classifiers, such as **eXtreme gradient boosting (XGBoost), Bagging, extra trees (ET), random forest (RF), and AdaBoost** can be used for the detection of intrusion applied to the Telemetry data of the TON_IoT datasets.
-- Datasets: TON_IoT datasets
+- Datasets: Telemetry dataset of ToN_IoT datasets
+- Classification: binary and multi-classification
 - Metrics: accuracy, recall, precision, F1-score, and confusion matrix
-- Results: The results indicate that the XGBoost ensemble showed superior performance with the highest accuracy over other models across the datasets in detecting and classifying IIoT attacks.
+- Results: The results indicate that the **XGBoost ensemble showed superior performance** with the highest accuracy over other models across the datasets in detecting and classifying IIoT attacks.
+- Limitations: One of the major limitations of the proposed model is **the inability to deal with the class imbalance** that arises from the datasets used to test the performance of the proposed model.
+- Future directions: 1. make use of **imbalanced algorithms** to balance the dataset. 2. focus on applying **deep learning models to optimize their hyper-parameters** to improve the dataset classification performance for the IDS. 3. The proposed model will be applied to **other IIoT-based datasets**.
+
