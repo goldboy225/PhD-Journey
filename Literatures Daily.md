@@ -160,9 +160,14 @@ interruption location techniques that utilise them.
 - Problem: Traditional intrusion detection systems (IDS) focus on high accuracy and low false alarm rate (FAR), making them often have **too high spatiotemporal complexity** to be deployed in IoT devices.
 - Keyword: CNN, LightGBM, IDS, IoT
 - Idea: an intrusion detection model of IoT based on the **light gradient boosting machine (LightGBM)**
-- Methodology: Firstly, the **one-dimensional convolutional neural network (CNN)** is used to extract features from network traffic to reduce the feature dimensions. Then, the **LightGBM** is used for classification to detect the type of network traffic belongs. The LightGBM is more lightweight on the basis of inheriting the advantages of the gradient boosting tree.
-- Datasets: TON-IoT and BoT-IoT
+- Methodology: The proposed method was evaluated using the NSL-KDD dataset (KDD TEST PLUS and KDD TEST21) for validation and testing. Many efficient features were selected using an enhanced technique, namely, the **particle swarm optimization**. The selected features serve for effective classification using **an enhanced LSTM framework**, where it is used to efficiently classify and detect the attack data from the normal data.
+- Datasets: NSL-KDD, UNSW-NB15, CICIDS2017, CSE-CIC-IDS2018, and BOT _DATASET
 - Classification: binary and multi-classification
-- Metrics: /
-- Results: The proposed model can **shorten the prediction time** by 90.66% and is better than the comparison models in accuracy and other performance metrics. The proposed model has **strong detection capability for denial of service (DoS) and distributed denial of service (DDoS) attacks**. Experimental results on the testbed built with IoT devices such as **Raspberry Pi show that the proposed model can perform effective and real-time intrusion detection on IoT devices.**
-- Future directions: we will try to **improve the lightweight of the feature extraction model** to improve the lightweight of the proposed model in the training stage. In addition, we need to **pay attention to the Recon in the BoTIoT dataset** to make the proposed model has more comprehensive and excellent performance.
+- Metrics: accuracy, precision, recall, and error rate
+- Results: Results show that **the training time** of the proposed system is much less than that of other methods for different classes. Finally, the performance of the proposed ELSTM-RNN framework is analyzed using various metrics, such as accuracy, precision, recall, and error rate. Our proposed method outperformed LPBoost and DNNs methods.
+- Future directions: The use of XAI algorithms to interpret and develop the provided PSO-driven strategy, 
+
+[Optimization of Intrusion Detection Using Likely Point PSO and Enhanced LSTM-RNN Hybrid Technique in Communication Networks](https://ieeexplore-ieee-org.ezproxy.utm.my/stamp/stamp.jsp?arnumber=10026342) by AHMED ABD EL-BASET DONKOL et al., 2023
+- Problem: inefficient against new/distinct attacks, IDS has various problems involving gradient vanishing, generalization, and overfitting issues.
+- Idea: **the enhanced long-short term memory (ELSTM) technique** with **recurrent neural network (RNN)** (ELSTM-RNN) to enhance security in IDS
+
