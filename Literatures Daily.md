@@ -9,6 +9,7 @@ This is the repository to save the recent new literatures collected, skimmed, an
 - [2023-02-23](#2023-02-23)
 - [2023-02-24](#2023-02-24)
 - [2023-02-25](#2023-02-25)
+- [2023-02-26](#2023-02-26)
 - 
 
 ## 2023-02-16  
@@ -186,4 +187,15 @@ interruption location techniques that utilise them.
 - Future directions: we can also focus on identifying **the type of attack**. In addition to the XGBoost algorithm, **metaheuristic algorithms** can also be used to reduce more efficient features. **Deep learning algorithms** can also be used for classification.
 - My comments: relatively simple method without enough explanation, but can be a way to start experiment.
 
-
+## 2023-02-26
+[Hybrid Intrusion Detection System Based on Combination of Random Forest and Autoencoder](https://www.mdpi.com/2073-8994/15/3/568) by Chao Wang et al., 2023, symmetry, MDPI
+- Problem: difficult to deal with unknown attacks, high false positive rate
+- Keyword: intrusion detection; random forest; autoencoder; hybrid model; unknown attack
+- Idea: As different models learn data characteristics from different perspectives, in this work we propose a hybrid IDS which leverages both random forest (RF) and autoencoder (AE).
+- Methodology: The hybrid model operates in two steps. In particular, in the first step, we utilize the probability output of the RF classifier to determine whether a sample belongs to attack. The unknown attacks can be identified with the assistance of the probability output. In the second step, an additional AE is coupled to reduce the false positive rate. To simulate an unknown attack in experiments, we explicitly remove some samples belonging to one attack class from the training set.
+- Datasets: IDS2018, BOT-IOT
+- Classification: binary classification
+- Metrics: accuracy, precision, recall, f1-score, and FAR
+- Results: The experimental results prove that the combina- tion method boosts the detection rate and reduces the FPR in comparison to the single detection methods.
+- Future directions: Only one type of attack was set as the unknown during the experiments; it is important to set **more than one type of attack** as the unknown to test the model. We plan to expand the method into a **multi-class approach** to provide more diagnostic information for security operators in the future.
+- My comments: an approach on handling unknown attack, and reducing false positive rate.
