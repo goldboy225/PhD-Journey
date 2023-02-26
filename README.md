@@ -217,6 +217,8 @@ Today, there is a plethora of solutions in the market that were not available de
 6. [International Journal of Communication Networks and Distributed Systems](https://www.inderscience.com/jhome.php?jcode=ijcnds) | WoS indexed, Q4, around 1 year to 1.5 year.
 7. [International Journal of Security and Networks](https://www.inderscience.com/jhome.php?jcode=ijsn) | around 1 year to 1.5 year.
 8. [International Journal of Mobile Network Design and Innovation](https://www.inderscience.com/jhome.php?jcode=ijmndi) | around 1 year to 1.5 year.
+9. [CMC-Computers, Materials & Continua](https://www.techscience.com/) | APC: $1,350 | ~ 4 months |
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/goldboy225/PhD-Journey/issues) for any improvements, suggestions or errors in the content.
