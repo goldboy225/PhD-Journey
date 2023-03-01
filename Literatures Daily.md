@@ -202,7 +202,7 @@ interruption location techniques that utilise them.
 - My comments: an approach on handling unknown attack, and reducing false positive rate.
 
 ## 2023-03-01
-Survey: [A Deep Learning and Optimization Method for Detecting Network Intrusion in IOT](https://ieeexplore-ieee-org.ezproxy.utm.my/abstract/document/10047140)
+Survey: [A Deep Learning and Optimization Method for Detecting Network Intrusion in IOT](https://ieeexplore-ieee-org.ezproxy.utm.my/abstract/document/10047140) by Rekha Gangula et al., 2022 Second International Conference on Advanced Technologies in Intelligent Control, Environment, Computing and Communication Engineering ICATIECE
 - Problem: Researchers and engineers must be able to interpret the complicated structure from imprecise information, recognize the dynamic anomaly patterns, and find anomalies when there aren't enough labels to describe them. As a result, using deep learning techniques rather than conventional shallow learning methods is necessary to improve anomalous detection capability.
 - Keyword: intrusion detection, neural networks, optimization, Internet of things, accuracy, false alarm rate.
 - Idea: DL vs traditional shallow ML on IDS in IoT
