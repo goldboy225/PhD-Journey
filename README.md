@@ -218,6 +218,24 @@ Today, there is a plethora of solutions in the market that were not available de
 7. [International Journal of Security and Networks](https://www.inderscience.com/jhome.php?jcode=ijsn) | around 1 year to 1.5 year.
 8. [International Journal of Mobile Network Design and Innovation](https://www.inderscience.com/jhome.php?jcode=ijmndi) | around 1 year to 1.5 year.
 9. [CMC-Computers, Materials & Continua](https://www.techscience.com/) | APC: $1,350 | ~ 4 months |
+10. IEEE Internet of Things Journal
+11. IEEE Transactions on Information Forensics and Security
+12. Information Sciences
+13. Future Generation Computer Systems
+14. Computers & Security
+15. Computers & Electrical Engineering
+16. Sensors
+17. Journal of Ambient Intelligence and Humanized Computing
+18. Alexandria Engineering Journal
+19. IEEE ACCESS
+20. Multimedia Tools and Applications
+21. Electronics
+22. Journal of Big Data
+23. Cybersecurity
+24. Arabian Journal for Science and Engineering
+25. Transactions on Emerging Telecommunications Technologies
+26. Mobile Information Systems
+
 
 
 ## Contribution 🛠️
