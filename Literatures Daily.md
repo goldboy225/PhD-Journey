@@ -212,10 +212,10 @@ Survey: [A Deep Learning and Optimization Method for Detecting Network Intrusion
 - Future directions: how to manage amount of alerts, how to handle useless info for deep learning, constant updated model in IoT for unknown attacks, further investigation on IDS and blockchain.
 - My comments: seems like a follow-up topic on DL on IDS IoT and a quick survey paper.
 
-[ADCL: Towards An Adaptive Network Intrusion Detection System Using Collaborative Learning in IoT Networks](https://ieeexplore-ieee-org.ezproxy.utm.my/abstract/document/10050513)
-- Problem:  it is well-known that the NIDS performance depends heavily on the effectiveness of detection model, which can be influenced significantly by the learning mechanism and the available training data. Many existing studies try to mitigate the above challenges, but few of them consider the adaptability and the cost of deploying an NIDS, the integrity of learning process, the capacity of model based on concrete traffic samples at the same time.
+[ADCL: Towards An Adaptive Network Intrusion Detection System Using Collaborative Learning in IoT Networks](https://ieeexplore-ieee-org.ezproxy.utm.my/abstract/document/10050513) by Zuchao Ma et al., 2023 IEEE internet of things
+- Problem: It is well-known that the NIDS performance depends heavily on the effectiveness of detection model, which can be influenced significantly by the learning mechanism and the available training data. Many existing studies try to mitigate the above challenges, but few of them consider the adaptability and the cost of deploying an NIDS, the integrity of learning process, the capacity of model based on concrete traffic samples at the same time.
 - Keyword: Intrusion Detection, System Adaptability, Collaborative Learning, Multiple Model, Internet of Things
 - Idea: propose a **collaborative learning** based detection framework called ADCL, which can mitigate the limitations on the knowledge of a single model by **leveraging multiple models trained in similar environments and detecting intrusions in a collaborative manner**.
 - Results: Our evaluation results indicate that ADCL can provide better performance compared with a single model on detecting various attacks in IoT networks. Specifically, ADCL improves F-score by up to 80% for adaptability, 42% in mitigating the reliance on learning integrity, 85% for model capacity. Furthermore, the detection results of ADCL guide those single models to update and increase the F-score by 15%.
 - Future directions: 
-- My comments: A model selection mechanism with mulitple models tranined, using suitable detector for attack detection.
+- My comments: Interesting idea, a model selection mechanism with mulitple models tranined, using suitable detector for attack detection.
