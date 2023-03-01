@@ -10,7 +10,8 @@ This is the repository to save the recent new literatures collected, skimmed, an
 - [2023-02-24](#2023-02-24)
 - [2023-02-25](#2023-02-25)
 - [2023-02-26](#2023-02-26)
-- 
+- ...
+- [2023-03-01](#2023-03-01)
 
 ## 2023-02-16  
 **Journal paper**: [Deeper Fine-Tuned Autoencoder for User Datagram Protocol Flooding
@@ -199,3 +200,14 @@ interruption location techniques that utilise them.
 - Results: The experimental results prove that the combina- tion method boosts the detection rate and reduces the FPR in comparison to the single detection methods.
 - Future directions: Only one type of attack was set as the unknown during the experiments; it is important to set **more than one type of attack** as the unknown to test the model. We plan to expand the method into a **multi-class approach** to provide more diagnostic information for security operators in the future.
 - My comments: an approach on handling unknown attack, and reducing false positive rate.
+
+## 2023-03-01
+Survey: [A Deep Learning and Optimization Method for Detecting Network Intrusion in IOT](https://ieeexplore-ieee-org.ezproxy.utm.my/abstract/document/10047140)
+- Problem: Researchers and engineers must be able to interpret the complicated structure from imprecise information, recognize the dynamic anomaly patterns, and find anomalies when there aren't enough labels to describe them. As a result, using deep learning techniques rather than conventional shallow learning methods is necessary to improve anomalous detection capability.
+- Keyword: intrusion detection, neural networks, optimization, Internet of things, accuracy, false alarm rate.
+- Idea: DL vs traditional shallow ML on IDS in IoT
+- Methodology: This article offers a survey on anomalous intrusion detection using deep learning techniques, with a focus on IoT devices utilized in real-world issues that have limited resources.
+- Metrics: accuracy, precision, recall, f1-score, and FAR
+- Results: The results of the research that were evaluated demonstrated that deep learning is better to traditional learning when it comes to high identification efficiency and low rate of false alarms. 
+- Future directions: how to manage amount of alerts, how to handle useless info for deep learning, constant updated model in IoT for unknown attacks, further investigation on IDS and blockchain.
+- My comments: seems like a quick survey on DL on IDS IoT.
