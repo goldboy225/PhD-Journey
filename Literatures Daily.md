@@ -12,6 +12,9 @@ This is the repository to save the recent new literatures collected, skimmed, an
 - [2023-02-26](#2023-02-26)
 - ...
 - [2023-03-01](#2023-03-01)
+- ...
+- [2023-03-03](#2023-03-03)
+- 
 
 ## 2023-02-16  
 **Journal paper**: [Deeper Fine-Tuned Autoencoder for User Datagram Protocol Flooding
@@ -219,3 +222,15 @@ Survey: [A Deep Learning and Optimization Method for Detecting Network Intrusion
 - Results: Our evaluation results indicate that ADCL can provide better performance compared with a single model on detecting various attacks in IoT networks. Specifically, ADCL improves F-score by up to 80% for adaptability, 42% in mitigating the reliance on learning integrity, 85% for model capacity. Furthermore, the detection results of ADCL guide those single models to update and increase the F-score by 15%.
 - Future directions: 
 - My comments: Interesting idea, a model selection mechanism with mulitple models tranined, using suitable detector for attack detection.
+
+## 2023-03-03
+Review: [Zero-day attack detection: a systematic literature review](https://link-springer-com.ezproxy.utm.my/article/10.1007/s10462-023-10437-z) by Rasheed Ahmad et al., Artificial Intelligence Review (2023)
+- Problem: Many of the recently proposed solutions lack a holistic IDS approach due to explicitly **relying on attack signature repositories, outdated datasets or the lack of considering zero-day (unknown) attacks while developing, training, or testing the machine learning (ML) or deep learning (DL)-based models**. Overlooking these factors makes the proposed IDS **less robust or practical in real-time environments**. On the other hand, detecting **zero-day attacks is a challenging subject**, despite the many solutions proposed over the past many years.
+- Keyword: Zero-day attacks · Unknown attacks · Anomaly detection · Intrusion detection · Closed and open set recognition
+- Idea: One of the goals of this systematic literature review (SLR) is to provide a research asset to future researchers on **various methodologies, techniques, ML and DL algorithms that researchers used for the detection of zero-day attacks.**
+- Results: completing the gap in providing a single repository of finding ML and DL-based tools and techniques used by researchers for the detection of zero-day attacks.
+- Future directions: **Not all attacks require the same mitigation strategy.** some other researchers grouped various subclasses of attacks into a few main **attack classes.** ML and DL models must be trained and tested on the diverse dataset to avoid training or testing bias issues and achieve optimum performance results on zero-day attacks. **Quality datasets** play a major role in building a comprehensive IDS. When building a DL-based model, it is essential to **consider factors (e.g., memory, computational power, deployment layer) that can impact the model performance in a live environment.** 
+- My comments: this paper provide a guide for the methods and techniques to build IDS towards zero-day attacks.
+
+
+
