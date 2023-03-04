@@ -8,3 +8,9 @@ Literature review is one of the daily tasks, therefore, here is the reference fo
 - 
 
 ## 2023-03-05
+1. Knowledge communication: Explore, try and write article with the info provided by supervisor on application using ChatGPT.
+2. Research Implementation: TON-IoT pre-processing is still pending, need kick off ASAP.
+3. Paper Writing: TBD.
+4. Paper submission, SLR submitted, just checked, under reviewing (10%).
+5. Conference organized by prof, need to check if I can follow up with it with finished empirical conference paper.
+6. A lazy ML tool need have a try.
