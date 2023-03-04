@@ -39,6 +39,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Lazy predict tool with basic metrics of classsification and regression](https://github.com/shankarpandala/lazypredict) |2023-02-21|
 - [Scite, AI-powered for real citations to actually published papers](https://twitter.com/mushtaqbilalphd/status/1627938511822151686?s=46&t=HIgzuXDByZtNfld-Eh5Qdw) |2023-02-23| 
 - [Systematic Literature Review of Information Extraction From Textual Data: Recent Methods, Applications, Trends, and Challenges](ieeexplore.ieee.org/document/10032132) This study investigated and described the most contemporary methods for extracting information from textual data, emphasizing their benefits and shortcomings. |2023-02-23|. 
+- [Applied Machine Learning]()
 
 
 
