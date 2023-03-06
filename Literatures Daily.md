@@ -261,4 +261,18 @@ Review: [Zero-day attack detection: a systematic literature review](https://link
 - Future directions:  However, the experiments **just involved some serial attacks**, in our real world, there are many **malicious attacks happening in parallel**. The first is to explore a dataset for parallel network attacks in Modbus devices, and discuss appropriate classifications method. On this basis, we will construct a more robust ICS firewall capable of facing multiple attack modes.
 - My comments: A paper focusing on specific attacks that have influence on specific veritical like industry IoT.
 
-
+[An ensemble deep learning based IDS for IoT using Lambda architecture](https://link-springer-com.ezproxy.utm.my/article/10.1186/s42400-022-00133-w) by Rubayyi Alghamdi et al., Cybersecurity volume 6, Article number: 5 (2023)
+- Problem: Building an Intrusion Detection System (IDS) for IoT networks is challenging as they enable **a massive amount of data to be aggregated**, which is difficult to handle and analyze in real time mainly because of **the heterogeneous nature of IoT devices.**
+- Keyword: IoT, IDS, **Lambda architecture**, Cyber-attacks, Deep learning, **Ensemble learning**
+- Idea: Quick binary classifier + ensemble multi-classifiers. **Binary classification uses Long Short Term Memory (LSTM)** to differentiate between malicious and benign traffic, while the **multi-class classifier uses an ensemble of LSTM, Convolutional Neural Network and Artificial Neural Network classifiers** to detect the type of attacks.
+- Dataset: IoT-23
+- Classifier: binary using LSTM, while multi-classifier using LSTM, CNN, ANN / majority voting or weighted ensemble
+- Methodology: Binary + multi-classifier, with Lamda architecture (batch mode for model training + stream mode for detecting)
+<img width="638" alt="image" src="https://user-images.githubusercontent.com/22785858/223052962-1e34b69a-551d-4590-9c6b-cbd30de5d21e.png">
+<img width="806" alt="image" src="https://user-images.githubusercontent.com/22785858/223053218-386fe4ec-5561-41d6-a417-1d73be64d427.png">
+<img width="805" alt="image" src="https://user-images.githubusercontent.com/22785858/223053891-6b1aae1d-a78b-4791-9d69-5da05ad3751e.png">
+- Validation: Confusion matrix of (a)Binary (b)Multiclassy task, Recall Precision Accuracy Class number
+- Environment: We implemented the proposed deep ensemble-based IDS model in Python 3.7 with Tensorflow 2.6. to validate the efficacy of the proposed architecture. The experiment was done on a core-i5 machine with 64-bit Operating System (OS) and 16GB RAM. The software stack con- tained Java (JDK) 11, Hadoop 2.7, Spark v3.0, Pyspark 3.0, and Kafka 2.6.
+- Results: The proposed approach gives high accuracy of over 99.93% and saves useful processing time due to the **multi-pronged classification strategy and using the lambda architecture.** We also demonstrate that the **ensemble approach results in higher detection accuracy and precision as compared to using the simple approach.** We also demonstrate that using the Lambda architecture enhances system performance in terms of throughput.
+- Future directions: In the future, we intend to employ **more deep-learning approaches in the ensemble model** to augment detection accuracy and system performance further. We also intend to test the proposed framework **in a real-world production IoT environment** to validate its performance further. Another important goal is to use **Automated Machine Learning techniques for tuning the hyperparameters.**
+- My comments: quick binary and ensemble multi-classification, Lamda architecuture used considering IoT characteristics.
