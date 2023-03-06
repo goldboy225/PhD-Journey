@@ -14,7 +14,8 @@ This is the repository to save the recent new literatures collected, skimmed, an
 - [2023-03-01](#2023-03-01)
 - ...
 - [2023-03-03](#2023-03-03)
-- 
+- ...
+- [2023-03-06](#2023-03-06)
 
 ## 2023-02-16  
 **Journal paper**: [Deeper Fine-Tuned Autoencoder for User Datagram Protocol Flooding
@@ -246,4 +247,18 @@ Review: [Zero-day attack detection: a systematic literature review](https://link
 - Results: Results show that feature selection methods significantly **reduced the dataset size by 90%** under the computation requirements without compromising on the attack detection ability. The models built on reduced dataset achieved **higher recall rate compared to models trained on full feature** set without loosing class differentiation ability. The SimpleRNN and Bi-LSTM models also **did not suffer any underfitting or overfitting with the reduced feature space.** The proposed deep learning based IoT intrusion detection framework is **suitable for fog-cloud based deployment and can scale well even with large volumes of IoT data.**
 - Future directions: /
 - My comments: Fog-based architecture with model trainined, validated and tested in cloud and model deployed at fog level closer to IoT devices to reduce latency of attack detection, DL for high performance, Four FS for dimensionality reduction, BoT-IoT for comprehensive IoT scenarios, comparison with that of full features. **Dataset spliting step is very interesting!**
+
+## 2023-03-06
+[Improve the Security of Industrial Control System: A Fine-Grained Classification Method for DoS Attacks on Modbus/TCP](https://link-springer-com.ezproxy.utm.my/article/10.1007/s11036-023-02108-8) by Hao Zhang et al., Mobile Networks and Applications (2023)
+- Application: Industrial Control Systems(ICS), vulnerability on Modbus protocol (DDoS attack)
+- Problem: Traditional detection methods **cannot perform well on fine-grained detection tasks** which could contribute to locating targets of attacks and preventing the destruction.
+- Keyword: ICS · Modbus · DoS · DDoS · Deep learning · Fine-grained classification
+- Idea: proposed a Neural Network architecture named MODLSTM, which consists of three parts: input preprocessing, feature recoding, and traffic classification.
+- Dataset: CICDDOS2019
+- Methodology: PCA for visualization, LSTM
+- Validation: Confusion matrix of (a)Binary (b)Multiclassy task, Recall Precision Accuracy Class number
+- Results: In the experiments, the effectiveness and robustness have been evaluated about the model, which gives 90.04% accuracy in the DoS attacks fine-grained task and 98.43% accuracy in the public DDoS dataset(increased by 0.71% and 0.07% respectively). The results show that the proposed method has more satisfactory abilities to detect **DoS attacks related to Modbus**, compared with other works. 
+- Future directions:  However, the experiments **just involved some serial attacks**, in our real world, there are many **malicious attacks happening in parallel**. The first is to explore a dataset for parallel network attacks in Modbus devices, and discuss appropriate classifications method. On this basis, we will construct a more robust ICS firewall capable of facing multiple attack modes.
+- My comments: A paper focusing on specific attacks that have influence on specific veritical like industry IoT.
+
 
