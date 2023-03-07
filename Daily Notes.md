@@ -7,6 +7,8 @@ Literature review is one of the daily tasks, therefore, here is the reference fo
 - [2023-03-05](#2023-03-05)
 - [2023-03-06](#2023-03-06)
 - [2023-03-07](#2023-03-07)
+- 
+
 
 ## 2023-03-05
 1. Knowledge communication: Explore, try and write article with the info provided by supervisor on application using ChatGPT.
@@ -25,4 +27,6 @@ Literature review is one of the daily tasks, therefore, here is the reference fo
 1. DONE! Submit SLR paper to another two journals, IJCNDS-144802 and IJICS-144797.
 2. DONE! Finished peer review for JournalJournal on Internet of Things Paper ID 33171 Title Rapid COD Detection and Analysis for Industrial Internet of Things.
 3. DONE! Finished three literature review paper, ideas updated in daily literature.
-4. TBD: Conference paper need to be ready for Scopus conference organized by supervisor.
+4. TBD: Conference paper need to be ready for Scopus conference organized by supervisor. Discussed with supervisor, prepare article first, then consider conference paper.
+5. DONE! VSC+ChatGPT tried successfully, which seems more smooth than google colab + ChatGPT, an article shared in wechat platform, also discussed with prof.
+6. Ongoing: Simple outline of the idea 1 article, ongoing now, focusing on TON-IoT data-preprocessing this week.
