@@ -12,6 +12,7 @@ Don't forget to hit the :star: if you like this repo.
 
 # Content:
 - [Literatures Daily](https://github.com/goldboy225/PhD-Journey/blob/main/Literatures%20Daily.md)
+- [Conference Guideline](https://github.com/goldboy225/PhD-Journey/blob/main/Conference.md)  
 - [General Tips](#general-tips)
 - [Awesome AI and Data Science](#awesome-ai-and-data-science)  
 - [Things of Python](#things-of-python)   
