@@ -4,18 +4,16 @@ This is the repository to save the recent new literatures collected, skimmed, an
 - [2023-02-16](#2023-02-16)
 - [2023-02-17](#2023-02-17)
 - [2023-02-18](#2023-02-18)
-- ...
 - [2023-02-22](#2023-02-22)
 - [2023-02-23](#2023-02-23)
 - [2023-02-24](#2023-02-24)
 - [2023-02-25](#2023-02-25)
 - [2023-02-26](#2023-02-26)
-- ...
 - [2023-03-01](#2023-03-01)
-- ...
 - [2023-03-03](#2023-03-03)
-- ...
 - [2023-03-06](#2023-03-06)
+- [2023-03-08](#2023-03-08)
+- 
 
 ## 2023-02-16  
 **Journal paper**: [Deeper Fine-Tuned Autoencoder for User Datagram Protocol Flooding
@@ -289,3 +287,12 @@ Review: [Zero-day attack detection: a systematic literature review](https://link
 - Results: For CIC-IDS2017 and IoT-23 datasets, BLoCNet had an accuracy of 98% and 99%, which is similar performance as related studies, albeit not an exact comparison due to different sampling approaches. For the original UNSW-NB15 dataset, BLoCNet had an accuracy of 76.34% vs. 75.56% of related work. These results demonstrate that BLoCNet performed well **across various datasets and confirms that its hybrid model provides good detection results.** albeit not an exact comparison **due to different sampling approaches.**   
 - Future directions: we will further explore the performance of BLoCNet and the DNN model. This can help **reduce the training time of the BLoCNet model** and understand how to improve the **detection rate for underrepresented attacks**. The latter can be achieved by using **different sampling techniques**. BLoCNet can also be trained on **newer IoT datasets**, as it is **dataset agnostic**.  
 - My comments: Hybrid model across multiple datasets, or named dataset agnositic model, especially for the minority attacks (by using sampling techniques). Implications for practitioners section contains the brief experience on data pre-processing and model validation.
+
+
+## 2023-03-08
+Review: [Machine Learning Techniques to Detect a DDoS Attack in SDN: A Systematic Review](https://www.mdpi.com/2076-3417/13/5/3183) by by Tariq Emad Ali Appl. Sci. 2023, 13(5), 3183; https://doi.org/10.3390/app13053183
+- Idea: The objective of this systematic review is to identify, evaluate, and discuss new efforts on ML/DL-based DDoS attack detection strategies in SDN networks.
+- Methodology: To reach our objective, we conducted a systematic review in which we looked for publications that used ML/DL approaches to identify DDoS attacks in SDN networks between 2018 and the beginning of November 2022. To search the contemporary literature, we have extensively utilized a number of digital libraries (including IEEE, ACM, Springer, and other digital libraries) and one academic search engine (Google Scholar).
+- Results: We have analyzed the relevant studies and categorized the results of the SLR into five areas: (i) The different types of DDoS attack detection in ML/DL approaches; (ii) the methodologies, strengths, and weaknesses of existing ML/DL approaches for DDoS attacks detection; (iii) benchmarked datasets and classes of attacks in datasets used in the existing literature; (iv) the preprocessing strategies, hyperparameter values, experimental setups, and performance metrics used in the existing literature; and (v) current research gaps and promising future directions.
+- Idea: The objective of this systematic review is to identify, evaluate, and discuss new efforts on ML/DL-based DDoS attack detection strategies in SDN networks.
+- My comments: Review of IDS in SDN networks.
