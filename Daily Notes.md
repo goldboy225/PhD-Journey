@@ -7,6 +7,7 @@ Literature review is one of the daily tasks, therefore, here is the reference fo
 - [2023-03-05](#2023-03-05)
 - [2023-03-06](#2023-03-06)
 - [2023-03-07](#2023-03-07)
+- [2023-03-08](#2023-03-08)
 - 
 
 
@@ -30,3 +31,7 @@ Literature review is one of the daily tasks, therefore, here is the reference fo
 4. TBD: Conference paper need to be ready for Scopus conference organized by supervisor. Discussed with supervisor, prepare article first, then consider conference paper.
 5. DONE! VSC+ChatGPT tried successfully, which seems more smooth than google colab + ChatGPT, an article shared in wechat platform, also discussed with prof.
 6. Ongoing: Simple outline of the idea 1 article, ongoing now, focusing on TON-IoT data-preprocessing this week.
+
+## 2023-03-08
+1. Ongoing: The idea 1 article kicks off today, starting from methodology section, plan to finish data-preprocessing this week.
+2. One paper literature review, rough review on IDS in SDN environment, can refer to this paper when discussing IDS in SDN.
