@@ -13,6 +13,7 @@ This is the repository to save the recent new literatures collected, skimmed, an
 - [2023-03-03](#2023-03-03)
 - [2023-03-06](#2023-03-06)
 - [2023-03-08](#2023-03-08)
+- [2023-03-09](#2023-03-09)
 - 
 
 ## 2023-02-16  
@@ -296,3 +297,13 @@ Review: [Machine Learning Techniques to Detect a DDoS Attack in SDN: A Systemati
 - Results: We have analyzed the relevant studies and categorized the results of the SLR into five areas: (i) The different types of DDoS attack detection in ML/DL approaches; (ii) the methodologies, strengths, and weaknesses of existing ML/DL approaches for DDoS attacks detection; (iii) benchmarked datasets and classes of attacks in datasets used in the existing literature; (iv) the preprocessing strategies, hyperparameter values, experimental setups, and performance metrics used in the existing literature; and (v) current research gaps and promising future directions.
 - Idea: The objective of this systematic review is to identify, evaluate, and discuss new efforts on ML/DL-based DDoS attack detection strategies in SDN networks.
 - My comments: Review of IDS in SDN networks.
+
+## 2023-03-09
+[A Fast and Effective Method for Intrusion Detection using Multi-Layered Deep Learning Networks](https://www.proquest.com/openview/44421bad128919ebb7585dedc29552a4/1?pq-origsite=gscholar&cbl=5444811)
+- Problem: Detecting intrusions is a challenging aspect especially in networked environments, as the system designed for such a scenario should be able to handle **the huge volume and velocity associated with the domain.**
+- Idea: This research presents three models, **APID (Adaptive Parallelized Intrusion Detection), HBM (Heterogeneous Bagging Model) and MLDN (Multi Layered Deep learning Network)** that can be used for fast and efficient detection of intrusions in networked environments.
+- Methodology: The deep learning model has been constructed using the Keras library. The training data is preprocessed and segregated to fit the processing architecture of neural networks. The network is constructed with multiple layers and the other required parameters for the network are set in accordance with the input data. The trained model is validated using the validation data that has been specifically segregated for this purpose.
+- Results: 
+- My comments:
+
+
