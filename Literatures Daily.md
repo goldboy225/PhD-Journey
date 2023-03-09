@@ -260,7 +260,7 @@ Review: [Zero-day attack detection: a systematic literature review](https://link
 - Future directions:  However, the experiments **just involved some serial attacks**, in our real world, there are many **malicious attacks happening in parallel**. The first is to explore a dataset for parallel network attacks in Modbus devices, and discuss appropriate classifications method. On this basis, we will construct a more robust ICS firewall capable of facing multiple attack modes.
 - My comments: A paper focusing on specific attacks that have influence on specific veritical like industry IoT.
 
-[An ensemble deep learning based IDS for IoT using Lambda architecture](https://link-springer-com.ezproxy.utm.my/article/10.1186/s42400-022-00133-w) by Rubayyi Alghamdi et al., Cybersecurity volume 6, Article number: 5 (2023)
+😄[An ensemble deep learning based IDS for IoT using Lambda architecture](https://link-springer-com.ezproxy.utm.my/article/10.1186/s42400-022-00133-w) by Rubayyi Alghamdi et al., Cybersecurity volume 6, Article number: 5 (2023)
 - Problem: Building an Intrusion Detection System (IDS) for IoT networks is challenging as they enable **a massive amount of data to be aggregated**, which is difficult to handle and analyze in real time mainly because of **the heterogeneous nature of IoT devices.**
 - Keyword: IoT, IDS, **Lambda architecture**, Cyber-attacks, Deep learning, **Ensemble learning**
 - Idea: Quick binary classifier + ensemble multi-classifiers. **Binary classification uses Long Short Term Memory (LSTM)** to differentiate between malicious and benign traffic, while the **multi-class classifier uses an ensemble of LSTM, Convolutional Neural Network and Artificial Neural Network classifiers** to detect the type of attacks.
@@ -321,9 +321,10 @@ Review: [A review of hacking techniques in IoT systems and future trends of hack
 - Idea: this paper aims to provide **insights into the future of IoT security** and inform the development of **effective prevention measures by analyzing hacking techniques and tools.**
 - My comments: general review on hacking methods and corresponding mitigation methods.
 
-[Explaining AI-informed Network Intrusion Detection with Counterfactuals](http://www.meng-jiang.com/pubs/C75.pdf) by Gang Liu and Meng Jiang 
+😄[Explaining AI-informed Network Intrusion Detection with Counterfactuals](http://www.meng-jiang.com/pubs/C75.pdf) by Gang Liu and Meng Jiang 
 - Problem: the developers and users of the NID systems **could not understand the systems’ correct or incorrect decisions** due to the **complexity and black-box nature of the AI methods.**
 - Idea: Visual way on AI explanability.
 - Methodology: This is a two-page poster paper that presents a new demo system that **offers a number of counterfactual explanations visually for any data example**. The visualization results were automatically generated: users just need to provide the index of a data example and do not edit anything on the graph. The visual feature space was built by the **t-SNE dimension reduction technique.**
+- <img width="542" alt="image" src="https://user-images.githubusercontent.com/22785858/224076740-c5e39f25-541b-43e2-a47d-a144519c4f5f.png">
 - Future direction: In the future, we will extend the detection task from binary classification to multi-class classification.
 - My comments: an interesting paper on AI explanability in visualized way.
