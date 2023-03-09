@@ -8,6 +8,7 @@ Literature review is one of the daily tasks, therefore, here is the reference fo
 - [2023-03-06](#2023-03-06)
 - [2023-03-07](#2023-03-07)
 - [2023-03-08](#2023-03-08)
+- [2023-03-09](#2023-03-09)
 - 
 
 
@@ -35,3 +36,9 @@ Literature review is one of the daily tasks, therefore, here is the reference fo
 ## 2023-03-08
 1. Ongoing: The idea 1 article kicks off today, starting from methodology section, plan to finish data-preprocessing this week.
 2. One paper literature review, rough review on IDS in SDN environment, can refer to this paper when discussing IDS in SDN.
+
+## 2023-03-09
+1. Literature review, roughly reviewed 3 papers, in which explainable AI and end-to-end DL can be the good candidate references.
+2. Ongoing, no progress on idea-1 article and experiment today...
+3. Done! Submit a paper to 𝗪𝗿𝗶𝘁𝗶𝗻𝗴 𝗪𝗼𝗿𝗸𝘀𝗵𝗼𝗽 organized by UTM, waiting for response.
+4. A journal [from Mala](https://ejournal.um.edu.my/index.php/MJCS) can be considered.
