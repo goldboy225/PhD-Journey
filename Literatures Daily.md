@@ -324,6 +324,6 @@ Review: [A review of hacking techniques in IoT systems and future trends of hack
 [Explaining AI-informed Network Intrusion Detection with Counterfactuals](http://www.meng-jiang.com/pubs/C75.pdf) by Gang Liu and Meng Jiang 
 - Problem: the developers and users of the NID systems **could not understand the systems’ correct or incorrect decisions** due to the **complexity and black-box nature of the AI methods.**
 - Idea: Visual way on AI explanability.
-- Methodology: This is a two-page poster paper that presents a new demo system that **offers a number of counterfactual explanations visually for any data example**. The visualization results were automatically generated: users just need to provide the index of a data example and do not edit anything on the graph.
+- Methodology: This is a two-page poster paper that presents a new demo system that **offers a number of counterfactual explanations visually for any data example**. The visualization results were automatically generated: users just need to provide the index of a data example and do not edit anything on the graph. The visual feature space was built by the **t-SNE dimension reduction technique.**
 - Future direction: In the future, we will extend the detection task from binary classification to multi-class classification.
 - My comments: an interesting paper on AI explanability in visualized way.
