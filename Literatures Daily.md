@@ -306,4 +306,13 @@ Review: [Machine Learning Techniques to Detect a DDoS Attack in SDN: A Systemati
 - Results: 
 - My comments:
 
+[A Novel Deep Learning-Based Intrusion Detection System for IoT Networks](https://www.mdpi.com/2073-431X/12/2/34) by Albara Awajan Computers 2023,12,34. https://doi.org/ 10.3390/computers12020034
+- Problem: Detecting intrusion on IoT devices in real-time is essential to make IoT-enabled services reliable, secure, and profitable.
+- Idea: Self generated data with feature engineering using DNN on simulated IoT devcies.
+- Methodology: This intelligent system uses a four-layer deep Fully Connected (FC) network architecture to detect malicious traffic that may initiate attacks on connected IoT devices. **The proposed IDS is dynamic and regularly updated based on newly discovered features through the classifier Updated module.**
+- <img width="705" alt="image" src="https://user-images.githubusercontent.com/22785858/224067041-b527348d-0a08-4f89-bb56-2d3ca74b4ec3.png">
+- <img width="566" alt="image" src="https://user-images.githubusercontent.com/22785858/224068435-f4b368a1-5f78-4b00-b1fe-8b4aa16cab38.png">
+- Results: The proposed system demonstrates reliable performance for simulated and real intrusions during the experimental performance analysis. It detects the Blackhole, Distributed Denial of Service, Opportunistic Service, Sinkhole, and Workhole attacks with an average accuracy of 93.74%. The proposed intrusion detection system’s precision, recall, and F1-score are 93.71%, 93.82%, and 93.47%, respectively, on average. This innovative deep learning-based IDS maintains a 93.21% average detection rate which is satisfactory for improving the security of IoT networks.
+- Future directions: The scope of developing **a platform-independent framework** from the deep learning-based intrusion detection system for IoT networks will be explored. It is expected that **a lightweight version of the proposed framework** will be more efficient and effective in intrusion detection.
+- My comments: end-to-end IDS with classifer update.
 
