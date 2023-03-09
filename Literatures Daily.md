@@ -316,3 +316,7 @@ Review: [Machine Learning Techniques to Detect a DDoS Attack in SDN: A Systemati
 - Future directions: The scope of developing **a platform-independent framework** from the deep learning-based intrusion detection system for IoT networks will be explored. It is expected that **a lightweight version of the proposed framework** will be more efficient and effective in intrusion detection.
 - My comments: end-to-end IDS with classifer update.
 
+Review: [A review of hacking techniques in IoT systems and future trends of hacking on IoT environment](https://wjarr.com/sites/default/files/WJARR-2023-0310.pdf) by Nur A'fyfah Zaimy World Journal of Advanced Research and Reviews, 2023, 17(02), 723–731
+- Problem: This paper reviews Internet of Things (IoT) security and the rise in security issues due to **hardware and software security flaws** being exploited.
+- Idea: this paper aims to provide **insights into the future of IoT security** and inform the development of **effective prevention measures by analyzing hacking techniques and tools.**
+- My comments: general review on hacking methods and corresponding mitigation methods.
