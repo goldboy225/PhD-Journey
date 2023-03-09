@@ -237,6 +237,7 @@ Today, there is a plethora of solutions in the market that were not available de
 24. Arabian Journal for Science and Engineering
 25. Transactions on Emerging Telecommunications Technologies
 26. Mobile Information Systems
+27. [Malaysian Journal of Computer Science (ISSN 0127-9084)](https://ejournal.um.edu.my/index.php/MJCS)
 
 
 
