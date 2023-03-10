@@ -14,6 +14,7 @@ This is the repository to save the recent new literatures collected, skimmed, an
 - [2023-03-06](#2023-03-06)
 - [2023-03-08](#2023-03-08)
 - [2023-03-09](#2023-03-09)
+- [2023-03-10](#2023-03-10)
 - 
 
 ## 2023-02-16  
@@ -328,3 +329,15 @@ Review: [A review of hacking techniques in IoT systems and future trends of hack
 - <img width="542" alt="image" src="https://user-images.githubusercontent.com/22785858/224076740-c5e39f25-541b-43e2-a47d-a144519c4f5f.png">
 - Future direction: In the future, we will extend the detection task from binary classification to multi-class classification.
 - My comments: an interesting paper on AI explanability in visualized way.
+
+## 2023-03-10
+😄 Review: [Advances in IoT Security: Vulnerabilities, Enabled Criminal Services, Attacks and Countermeasures](https://ieeexplore-ieee-org.ezproxy.utm.my/stamp/stamp.jsp?tp=&arnumber=10059147)
+- Problem: IoT devices remain at higher risk of attack due to their intrinsic properties which include but are not limited to **extreme heterogeneity, mostly plug-and-play nature, computational limitations, improper patch management, unnecessary open ports, default or no security credentials, and extensive use of reusable open-source software.**
+- Motivation: To address these security concerns we need to thoroughly understand IoT devices’ **vulnerabilities, associated attacks, and how criminal services can abuse these devices.**
+- Idea: we present **recent advances in IoT security vulnerabilities, criminal services by empirically identifying major vulnerable IoT devices and cyber attacks exploiting them by cyber criminals.** Additionally, we present **mapping of vulnerabilities, criminal services, attacks, and potential solutions against such vulnerabilities and attacks.** We have also presented different approaches in a tabular form for side by side comparison.
+- Methodology
+- <img width="927" alt="image" src="https://user-images.githubusercontent.com/22785858/224192960-9d6c12c4-2079-40d6-a8c0-a9a062fff7ec.png">
+- Idea: we present **recent advances in IoT security vulnerabilities, criminal services by empirically identifying major vulnerable IoT devices and cyber attacks exploiting them by cyber criminals.** Additionally, we present **mapping of vulnerabilities, criminal services, attacks, and potential solutions against such vulnerabilities and attacks.** We have also presented different approaches in a tabular form for side by side comparison.
+- My comments: valueable reference on various perspectives of the IoT security. some of the interesting tools as following:
+**CVE (Common Vulnerability and Exposure)**: As the name suggests, it’s a list of publicly disclosed databases related to vulnerabilities and exposures. CVE database is maintained by MITRE1 and fully synchronized CVE database is also maintained by NIST as NVD database [28]
+**Shodan**:2 It is a search engine for the Internet of everything that is used to explore exposed internet-connected products. This is a tool popular these days for vulnerability assessment and security research.
