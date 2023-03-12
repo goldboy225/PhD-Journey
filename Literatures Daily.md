@@ -15,7 +15,7 @@ This is the repository to save the recent new literatures collected, skimmed, an
 - [2023-03-08](#2023-03-08)
 - [2023-03-09](#2023-03-09)
 - [2023-03-10](#2023-03-10)
-- [2023-03-11](#2023-03-11), energy consumption analysis in IoT, 
+- [2023-03-11](#2023-03-11), Energy consumption analysis in ML-based IoT
 
 ## 2023-02-16  
 **Journal paper**: [Deeper Fine-Tuned Autoencoder for User Datagram Protocol Flooding
