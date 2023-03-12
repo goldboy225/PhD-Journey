@@ -15,7 +15,7 @@ This is the repository to save the recent new literatures collected, skimmed, an
 - [2023-03-08](#2023-03-08)
 - [2023-03-09](#2023-03-09)
 - [2023-03-10](#2023-03-10)
-- 
+- [2023-03-11](#2023-03-11), energy consumption analysis in IoT, 
 
 ## 2023-02-16  
 **Journal paper**: [Deeper Fine-Tuned Autoencoder for User Datagram Protocol Flooding
@@ -341,3 +341,15 @@ Review: [A review of hacking techniques in IoT systems and future trends of hack
 - My comments: valueable reference on various perspectives of the IoT security. some of the interesting tools as following:
 **CVE (Common Vulnerability and Exposure)**: As the name suggests, it’s a list of publicly disclosed databases related to vulnerabilities and exposures. CVE database is maintained by MITRE1 and fully synchronized CVE database is also maintained by NIST as NVD database [28]
 **Shodan**:2 It is a search engine for the Internet of everything that is used to explore exposed internet-connected products. This is a tool popular these days for vulnerability assessment and security research.
+
+
+## 2023-03-11
+😄 [Energy consumption of on-device machine learning models for IoT intrusion detection](https://scholar.google.com/scholar_url?url=https://avesis.erciyes.edu.tr/yayin/ce0d31c4-e0cb-4990-b839-9f1b926cf19a/energy-consumption-of-on-device-machine-learning-models-for-iot-intrusion-detection/document.pdf&hl=en&sa=X&d=13506121193665797828&ei=G8kLZJ7OKYThmQH4_o6IDA&scisig=AAGBfm3h3297Fsm_G2Vi4_QKplNGK3HR8g&oi=scholaralrt&html=&pos=0&folt=cit)
+- Problem: No study has been conducted to analyze **the energy consumption of ML-based IDS.**
+- Idea: we perform a comparative analysis of on-device ML algorithms in terms of energy consumption for IoT intrusion detection applications.
+- Dataset: DS2OS
+- Methodology: For a thorough analysis, we study the training and inference phases separately. For training, we compare the cloud computing-based ML, edge computing-based ML, and IoT device-based ML approaches. For the inference, we evaluate the TinyML approach to run the ML algorithms on tiny IoT devices such as Micro Controller Units (MCUs).
+- <img width="658" alt="image" src="https://user-images.githubusercontent.com/22785858/224524034-5ba16ff0-4801-4098-b200-bb46fd7cb36e.png">
+- Environment: As a cloud service, we leveraged the **Azure cloud computing instance** that had Intel 16 cores CPU with 32 GB RAM. Additionally, we defined the edge device as a device with limited memory and computation power whereas IoT device as a device with very low memory and computation capacity. Accordingly, we used **Dell computer that had Intel(R) Core(TM) i7-9750H CPU processor with 16 GB RAM** as an edge, and **Raspberry Pi 4 Model B with 8 GB RAM** as an IoT device. Finally, we used **ESP32 Azure IoT Kit** as an end device to evaluate inference time thus energy consumption on this device.
+- Results: Comparative performance evaluations show that deploying the **Decision Tree (DT) algorithm on-device gives better results** in terms of training time, inference time, and power consumption.
+- My comments: A good paper on energy consumption empirical analysis among various layers of IoT infrastructure.
