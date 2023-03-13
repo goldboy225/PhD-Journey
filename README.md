@@ -31,7 +31,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Career Development](#career-development)  
 
 ## General Tips
-- [Speed write for paper](https://speedwrite.com/) for paper writing |2023-03-13|
+- [Speed write for paper](https://speedwrite.com/) to generate original text for paper writing |2023-03-13|
 - [What's the different between Scopus and Web of Science?](https://spubl.com.ua/en/blog/scopus-ili-web-of-science-kak-vybrat-zhurnal-dlya-publikatsii-chto-luchshe)  
 - [List of Web of Science Journals in Computer Science](https://wosjournal.com/list-of-journals.php?id=Computer%20Science)
 - [Between Python and Julia: A Comparative Analysis](https://deeplearningmy.com/between-python-and-julia-a-comparative-analysis/) |2023-02-06|  
