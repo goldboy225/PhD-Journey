@@ -16,6 +16,7 @@ This is the repository to save the recent new literatures collected, skimmed, an
 - [2023-03-09](#2023-03-09)
 - [2023-03-10](#2023-03-10)
 - [2023-03-11](#2023-03-11), Energy consumption analysis in ML-based IoT
+- [2023-03-16](#2023-03-16), 
 
 ## 2023-02-16  
 **Journal paper**: [Deeper Fine-Tuned Autoencoder for User Datagram Protocol Flooding
@@ -353,3 +354,17 @@ Review: [A review of hacking techniques in IoT systems and future trends of hack
 - Environment: As a cloud service, we leveraged the **Azure cloud computing instance** that had Intel 16 cores CPU with 32 GB RAM. Additionally, we defined the edge device as a device with limited memory and computation power whereas IoT device as a device with very low memory and computation capacity. Accordingly, we used **Dell computer that had Intel(R) Core(TM) i7-9750H CPU processor with 16 GB RAM** as an edge, and **Raspberry Pi 4 Model B with 8 GB RAM** as an IoT device. Finally, we used **ESP32 Azure IoT Kit** as an end device to evaluate inference time thus energy consumption on this device.
 - Results: Comparative performance evaluations show that deploying the **Decision Tree (DT) algorithm on-device gives better results** in terms of training time, inference time, and power consumption.
 - My comments: A good paper on energy consumption empirical analysis among various layers of IoT infrastructure.
+
+## 2023-03-16
+[A Multi-level Random Forest Model-Based Intrusion Detection Using Fuzzy Inference System for Internet of Things Networks](https://link-springer-com.ezproxy.utm.my/article/10.1007/s44196-023-00205-w)
+
+[Scalable anomaly-based intrusion detection for secure Internet of Things using generative adversarial networks in fog environment](https://www-sciencedirect-com.ezproxy.utm.my/science/article/pii/S1084804523000413)
+
+[Routing Attacks Detection in 6LoWPAN-Based Internet of Things](https://www.mdpi.com/2079-9292/12/6/1320)
+
+[HOTD: A Holistic Cross-Layer Time-Delay Attack Detection Framework for Unmanned Aerial Vehicle Networks](https://www-sciencedirect-com.ezproxy.utm.my/science/article/pii/S0743731523000370)
+
+[An Optimal Reinforced Deep Belief Network for Detection of Malicious Network Traffic](https://www.tandfonline.com/doi/abs/10.1080/03772063.2023.2175059)
+
+[Review on the Feasibility of Adversarial Evasion Attacks and Defenses for Network Intrusion Detection Systems](https://arxiv.org/pdf/2303.07003.pdf)
+
