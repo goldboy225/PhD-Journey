@@ -9,7 +9,8 @@ Literature review is one of the daily tasks, therefore, here is the reference fo
 - [2023-03-07](#2023-03-07)
 - [2023-03-08](#2023-03-08)
 - [2023-03-09](#2023-03-09)
-- 
+- ...
+- [2023-03-20](#2023-03-20)
 
 
 ## 2023-03-05
@@ -42,3 +43,13 @@ Literature review is one of the daily tasks, therefore, here is the reference fo
 2. Ongoing, no progress on idea-1 article and experiment today...
 3. Done! Submit a paper to 𝗪𝗿𝗶𝘁𝗶𝗻𝗴 𝗪𝗼𝗿𝗸𝘀𝗵𝗼𝗽 organized by UTM, waiting for response.
 4. A journal [from Mala](https://ejournal.um.edu.my/index.php/MJCS) can be considered.
+
+## 2023-03-20
+Academic work were postponed for other priviate work, now back to normal progress.
+1. APC fund of article submitted raised by prof. Done.
+2. Scholarship to be applied before 2023-03-30. Ongoing.
+3. Tried some application of chatgpt API, such as one key to write a complete book, very interesting.
+4. Have to submit articles to WoS Q1, to come up with the publication result, even the fee is high.
+5. Back to the progress of the idea 1 article, plan to finish experiment before 2023-03-30.
+6. The 4th semester course registration has been done today, and today is the first new day for the 4th semester of my PhD journey.
+7. Daily progress update is needed starting from today.
