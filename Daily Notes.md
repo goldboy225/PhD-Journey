@@ -46,10 +46,13 @@ Literature review is one of the daily tasks, therefore, here is the reference fo
 
 ## 2023-03-20
 Academic work were postponed for other priviate work, now back to normal progress.
-1. APC fund of article submitted raised by prof. Done.
-2. Scholarship to be applied before 2023-03-30. Ongoing.
-3. Tried some application of chatgpt API, such as one key to write a complete book, very interesting.
-4. Have to submit articles to WoS Q1, to come up with the publication result, even the fee is high.
-5. Back to the progress of the idea 1 article, plan to finish experiment before 2023-03-30.
-6. The 4th semester course registration has been done today, and today is the first new day for the 4th semester of my PhD journey.
-7. Daily progress update is needed starting from today.
+*1. APC fund of article submitted raised by prof. Done.*
+**2. Scholarship to be applied before 2023-03-30. Ongoing.**
+*3. Tried some application of chatgpt API, such as one key to write a complete book, very interesting. Done.*
+**4. Have to submit articles to WoS Q1, to come up with the publication result, even the fee is high.  Ongoing.
+5. Back to the progress of the idea 1 article, plan to finish experiment before 2023-03-30. Ongoing.**
+	- Few papers on Networking TON-IoT dataset.
+	- Furthermore, gap on missing value handling on TON-IoT dataset for many papers.
+	- So working on missing value handling feature by feature. 2023-03-20
+*7. The 4th semester course registration has been done today, and today is the first new day for the 4th semester of my PhD journey. Done.*
+*8. Daily progress update is needed starting from today. Done.*
