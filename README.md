@@ -29,6 +29,7 @@ Don't forget to hit the :star: if you like this repo.
 - [Federate Learning](#federate-learning)  
 - [Internet of Things](#internet-of-things)  
 - [Career Development](#career-development)  
+- [9 ways to survive in phd journey](https://github.com/goldboy225/PhD-Journey/blob/main/9%20Ways%20to%20Survive%20in%20PhD%20Journey.md)
 
 ## General Tips
 - [Speed write for paper](https://speedwrite.com/) to generate original text for paper writing |2023-03-13|
