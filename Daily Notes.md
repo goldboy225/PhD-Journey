@@ -61,12 +61,12 @@ Academic work were postponed for other priviate work, now back to normal progres
 ## 2023-03-21
 1. Already Done:
 2. Ongoing:
-	2.1 The idea 1 article, under the experiment on missing value handling, expect complete on 2023-03-30.
+	2.1 The idea 1 article, under the experiment on missing value handling, expect complete on 2023-03-30.  
 3. To do:
- - [ ] 3.1 Apply for fund supported by UTM before 2023-03-30
- - [ ] 3.2 Submit the SLR article to Q1 journal IEEE Access, before 2023-03-30.
+	3.1 Apply for fund supported by UTM before 2023-03-30.  
+	3.2 Submit the SLR article to Q1 journal IEEE Access, before 2023-03-30.  
 4. Routine works:
-	4.1 Literature Review and Notes making.
-	4.2 AI tool exploration for research work.
-	4.3 Communication with supervisor and peers.
+	4.1 Literature Review and Notes making.  
+	4.2 AI tool exploration for research work.  
+	4.3 Communication with supervisor and peers.  
 
