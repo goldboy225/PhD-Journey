@@ -17,6 +17,7 @@ This is the repository to save the recent new literatures collected, skimmed, an
 - [2023-03-10](#2023-03-10)
 - [2023-03-11](#2023-03-11), Energy consumption analysis in ML-based IoT
 - [2023-03-16](#2023-03-16), 
+- [2023-03-26](#2023-03-26), Add more papers for the submitted review article
 
 ## 2023-02-16  
 **Journal paper**: [Deeper Fine-Tuned Autoencoder for User Datagram Protocol Flooding
@@ -367,4 +368,12 @@ Review: [A review of hacking techniques in IoT systems and future trends of hack
 [An Optimal Reinforced Deep Belief Network for Detection of Malicious Network Traffic](https://www.tandfonline.com/doi/abs/10.1080/03772063.2023.2175059)
 
 [Review on the Feasibility of Adversarial Evasion Attacks and Defenses for Network Intrusion Detection Systems](https://arxiv.org/pdf/2303.07003.pdf)
+
+## 2023-03-26
+[A Semi-centralized Trust Management Model Based on Blockchain for Data Exchange in IoT System](https://ieeexplore-ieee-org.ezproxy.utm.my/stamp/stamp.jsp?arnumber=9794601)
+[A Survey on Access Control in the Age of Internet of Things](https://ieeexplore-ieee-org.ezproxy.utm.my/stamp/stamp.jsp?tp=&arnumber=8968396)
+[Deep-Green A Dispersed Energy-Efficiency Computing Paradigm for Green Industrial IoT](https://ieeexplore-ieee-org.ezproxy.utm.my/stamp/stamp.jsp?tp=&arnumber=9372936)
+[A Novel Web Attack Detection System for Internet of Things via Ensemble Classification](https://ieeexplore-ieee-org.ezproxy.utm.my/stamp/stamp.jsp?tp=&arnumber=9261992)
+[A multiple‐kernel clustering based intrusion detection scheme for 5G and IoT networks](https://link-springer-com.ezproxy.utm.my/article/10.1007/s13042-020-01253-w)
+[Attribution Classification Method of APT Malware in IoT Using Machine Learning Techniques](https://www.hindawi.com/journals/scn/2021/9396141/)
 
