@@ -12,6 +12,8 @@ Literature review is one of the daily tasks, therefore, here is the reference fo
 - ...
 - [2023-03-20](#2023-03-20)
 - [2023-03-21](#2023-03-21)
+- ...
+- [2023-03-26](#2023-03-26)
 
 
 ## 2023-03-05
@@ -70,3 +72,21 @@ Academic work were postponed for other priviate work, now back to normal progres
 	4.2 AI tool exploration for research work.  
 	4.3 Communication with supervisor and peers.  
 
+## 2023-03-26
+1. Already Done:
+	1.1 Apply for fund supported by UTM before 2023-03-30. 
+2. Ongoing:
+	2.1 Need follow up with the feedback of the paper raised by the editor within 30 days, expect complete before 4/7.
+	Some papers need follow up for more comprehensive review.
+	A Semi.centralized Trust Management Model Based on Blockchain for Data Exchange in IoT System. IEEE Transactions on Services Computing. 2022. DOI:10.1109/TSC.2022.3181668. . 
+	A Survey on Access Control in the Age of Internet of Things. IEEE Internet of Things Journal. . Deep.Green: A Dispersed Energy.Efficiency Computing Paradigm for Green Industrial IoT. IEEE Transactions on Green Communications and Networking. . 
+	A Novel Web Attack Detection System for Internet of Things via Ensemble Classification. IEEE Transactions on Industrial Informatics. . 
+	A multiple.kernel clustering based intrusion detection scheme for 5G and IoT networks. Int. J. Mach. Learn. Cybern. 12(11). . 		Attribution Classification Method of APT Malware in IoT Using Machine Learning Techniques. Secur. Commun. Networks 2021
+	4.2 The idea 1 article, under the experiment on missing value handling, expect complete on 2023-03-30.  
+3. To do:
+	3.1 Submit the SLR article to Q1 journal IEEE Access, before 2023-03-30.  
+	3.2 Need modify the sumbimission files for Eva and send email, before 3/28.
+4. Routine works:
+	4.1 Literature Review and Notes making.  
+	4.2 AI tool exploration for research work.  
+	4.3 Communication with supervisor and peers.  
