@@ -1,6 +1,8 @@
 This is the repository to save the recent new literatures collected, skimmed, and read, to keep up with pace of the-state-of-the art works.
 
 # Contents:
+- [2023-05-30](#2023-05-30)
+...
 - [2023-02-16](#2023-02-16)
 - [2023-02-17](#2023-02-17)
 - [2023-02-18](#2023-02-18)
@@ -18,6 +20,18 @@ This is the repository to save the recent new literatures collected, skimmed, an
 - [2023-03-11](#2023-03-11), Energy consumption analysis in ML-based IoT
 - [2023-03-16](#2023-03-16), 
 - [2023-03-26](#2023-03-26), Add more papers for the submitted review article
+
+## 2023-05-30  
+**Journal paper**: [EIoT-DDoS: embedded classification approach for IoT traffic-based DDoS attacks](https://link-springer-com.ezproxy.utm.my/article/10.1007/s10586-023-04027-5), Praveen Shukla, C. Rama Krishna & Nilesh Vishwasrao Patil
+- Idea: Employed the **embedded feature reduction technique to create cost-effective and efficient classification models** with a high feature reduction rate. 
+- Datasets: BoT-IoT
+- Attacks: DDoS attack
+- Model: We trained and tested **five multiclass classification models (XGBoost, NB, DT, KNN, and RF)** using the publicly available realistic Bot-IoT dataset.
+- Result: The results show that the proposed approach provides an **84.4% feature reduction rate** and **approximately 5.19% higher classification accuracy** than the existing approaches.
+- <img width="729" alt="image" src="https://github.com/goldboy225/PhD-Journey/assets/22785858/56398131-1cf1-4f0f-b738-71a1405f12e5">
+- <img width="580" alt="image" src="https://github.com/goldboy225/PhD-Journey/assets/22785858/1c5221a9-a4b2-424f-90db-7de539d08a6a">
+- <img width="583" alt="image" src="https://github.com/goldboy225/PhD-Journey/assets/22785858/4625f830-149e-406a-ad72-a6511d701f77">
+
 
 ## 2023-02-16  
 **Journal paper**: [Deeper Fine-Tuned Autoencoder for User Datagram Protocol Flooding
