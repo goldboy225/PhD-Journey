@@ -2,6 +2,7 @@ This is the repository to save the recent new literatures collected, skimmed, an
 
 # Contents:
 - [2023-05-30](#2023-05-30)
+- [2023-05-31](#2023-05-31)
 ...
 - [2023-02-16](#2023-02-16)
 - [2023-02-17](#2023-02-17)
@@ -20,6 +21,14 @@ This is the repository to save the recent new literatures collected, skimmed, an
 - [2023-03-11](#2023-03-11), Energy consumption analysis in ML-based IoT
 - [2023-03-16](#2023-03-16), 
 - [2023-03-26](#2023-03-26), Add more papers for the submitted review article
+
+## 2023-05-31
+**Journal paper**: [](), 
+- Idea: 
+- Datasets: 
+- Attacks: 
+- Model: 
+- Result: 
 
 ## 2023-05-30  
 **Journal paper**: [EIoT-DDoS: embedded classification approach for IoT traffic-based DDoS attacks](https://link-springer-com.ezproxy.utm.my/article/10.1007/s10586-023-04027-5), Praveen Shukla, C. Rama Krishna & Nilesh Vishwasrao Patil
