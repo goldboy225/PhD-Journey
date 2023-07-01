@@ -12,6 +12,7 @@ Don't forget to hit the :star: if you like this repo.
 
 # Content:
 - [Literatures Daily](https://github.com/goldboy225/PhD-Journey/blob/main/Literatures%20Daily.md)
+- [Awesome Courses]()
 - [Conference Guideline](https://github.com/goldboy225/PhD-Journey/blob/main/Conference.md)  
 - [General Tips](#general-tips)
 - [Awesome AI and Data Science](#awesome-ai-and-data-science)  
@@ -44,6 +45,8 @@ Don't forget to hit the :star: if you like this repo.
 - [Systematic Literature Review of Information Extraction From Textual Data: Recent Methods, Applications, Trends, and Challenges](ieeexplore.ieee.org/document/10032132) This study investigated and described the most contemporary methods for extracting information from textual data, emphasizing their benefits and shortcomings. |2023-02-23|. 
 - [Applied Machine Learning](https://github.com/goldboy225/PhD-Journey/blob/main/Applied%20Machine%20Learning.md) Machine learning is a powerful tool for extracting insights from data and making predictions. Applied machine learning refers to the use of machine learning techniques to solve real-world problems. This can involve building models to predict customer behavior, identify fraud, or diagnose medical conditions, among other applications. In this article, we will discuss the steps involved in applied machine learning. |2023-03-05|
 
+## Awesome Courses
+[CS50, Harvard University’s introduction to the intellectual enterprises of computer science and the art of programming](https://cs50.harvard.edu/x/2023/)
 
 
 ## Awesome AI and Data Science
