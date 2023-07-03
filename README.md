@@ -243,7 +243,8 @@ Today, there is a plethora of solutions in the market that were not available de
 25. Transactions on Emerging Telecommunications Technologies
 26. Mobile Information Systems
 27. [Malaysian Journal of Computer Science (ISSN 0127-9084)](https://ejournal.um.edu.my/index.php/MJCS)
-28. [KSII Transactions on Internet and Information](https://www.itiis.org) 
+28. [KSII Transactions on Internet and Information](https://www.itiis.org)
+29. [Applied Science](https://www.mdpi.com/journal/applsci)  
 
 
 
