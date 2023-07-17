@@ -33,6 +33,7 @@ Don't forget to hit the :star: if you like this repo.
 - [9 ways to survive in phd journey](https://github.com/goldboy225/PhD-Journey/blob/main/9%20Ways%20to%20Survive%20in%20PhD%20Journey.md)
 
 ## General Tips
+- [Rankings of computer science based on metrics of publish in top conference](https://csrankings.org/), very useful for finding sub-domain area and the top authors! |2023-07-17|  
 - [Speed write for paper](https://speedwrite.com/) to generate original text for paper writing |2023-03-13|
 - [What's the different between Scopus and Web of Science?](https://spubl.com.ua/en/blog/scopus-ili-web-of-science-kak-vybrat-zhurnal-dlya-publikatsii-chto-luchshe)  
 - [List of Web of Science Journals in Computer Science](https://wosjournal.com/list-of-journals.php?id=Computer%20Science)
